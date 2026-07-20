@@ -1,0 +1,641 @@
+Food_ID,Food_Name,Category,Cuisine,Meal_Type,Serving_Size_g,Calories_kcal,Protein_g,Carbs_g,Fat_g,Fiber_g,Sugar_g,Sodium_mg,Potassium_mg,Calcium_mg,Iron_mg,Vitamin_C_mg,Vitamin_D_IU,Vitamin_B12_mcg,Glycemic_Index,Vegetarian,Vegan,Gluten_Free
+484,Bagel,Bakery/Snack,Indian/International,Snack,100,193,3.9,32.0,10.0,4.8,0.0,441,320,91,1.0,0.0,0,0.0,59,Yes,No,No
+444,Baguette,Bakery/Snack,Indian/International,Snack,100,243,3.9,47.0,4.0,4.8,3.6,81,170,51,2.0,0.0,0,0.0,54,Yes,No,No
+455,Banana Bread,Bakery/Snack,Indian/International,Snack,100,320,6.6,35.0,7.0,0.0,10.8,180,280,95,1.5,0.0,0,0.0,65,Yes,No,No
+469,Banana Chips,Bakery/Snack,Indian/International,Snack,100,418,4.8,32.0,14.5,4.8,10.8,306,170,31,2.5,0.0,0,0.0,79,Yes,No,No
+495,Bhujia,Bakery/Snack,Indian/International,Snack,100,270,6.6,20.0,13.0,0.0,7.2,40,180,15,0.5,0.0,0,0.0,70,Yes,No,No
+458,Breadsticks,Bakery/Snack,Indian/International,Snack,100,341,9.3,44.0,11.5,3.6,3.6,207,310,107,3.0,0.0,0,0.0,68,Yes,No,No
+439,Brown Bread,Bakery/Snack,Indian/International,Snack,100,208,6.6,32.0,10.0,4.8,7.2,36,120,31,2.5,0.0,0,0.0,49,Yes,No,No
+441,Burger Bun,Bakery/Snack,Indian/International,Snack,100,222,8.4,38.0,13.0,1.2,10.8,54,140,39,0.5,0.0,0,0.0,51,Yes,No,No
+481,Butter Cookies,Bakery/Snack,Indian/International,Snack,100,502,8.4,23.0,5.5,1.2,7.2,414,290,79,2.5,0.0,0,0.0,56,Yes,No,No
+473,Butter Popcorn,Bakery/Snack,Indian/International,Snack,100,446,8.4,44.0,7.0,3.6,5.4,342,210,47,1.5,0.0,0,0.0,48,Yes,No,Yes
+497,Chakli,Bakery/Snack,Indian/International,Snack,100,284,8.4,26.0,16.0,2.4,10.8,58,200,23,1.5,0.0,0,0.0,72,Yes,No,No
+505,Cheese Balls,Bakery/Snack,Indian/International,Snack,100,340,8.4,50.0,14.5,0.0,0.0,130,280,55,2.5,0.0,0,0.0,45,Yes,No,Yes
+489,Chicken Puff,Bakery/Snack,Indian/International,Snack,100,228,8.4,47.0,4.0,4.8,9.0,486,120,111,0.5,0.0,0,0.0,64,Yes,No,No
+463,Chocolate Biscuit,Bakery/Snack,Indian/International,Snack,100,376,6.6,59.0,5.5,3.6,0.0,252,110,127,2.5,0.0,0,0.0,73,Yes,No,No
+451,Chocolate Cake,Bakery/Snack,Indian/International,Snack,100,292,3.0,23.0,14.5,1.2,3.6,144,240,79,2.5,0.0,0,0.0,61,Yes,No,No
+480,Chocolate Cookies,Bakery/Snack,Indian/International,Snack,100,495,7.5,20.0,4.0,0.0,5.4,405,280,75,2.0,0.0,0,0.0,55,Yes,No,No
+485,Cinnamon Roll,Bakery/Snack,Indian/International,Snack,100,200,4.8,35.0,11.5,0.0,1.8,450,80,95,1.5,0.0,0,0.0,60,Yes,No,No
+504,Corn Puffs,Bakery/Snack,Indian/International,Snack,100,333,7.5,47.0,13.0,4.8,10.8,121,270,51,2.0,0.0,0,0.0,79,Yes,No,Yes
+464,Crackers,Bakery/Snack,Indian/International,Snack,100,383,7.5,62.0,7.0,4.8,1.8,261,120,131,3.0,0.0,0,0.0,74,Yes,No,No
+462,Cream Biscuit,Bakery/Snack,Indian/International,Snack,100,369,5.7,56.0,4.0,2.4,10.8,243,100,123,2.0,0.0,0,0.0,72,Yes,No,No
+446,Croissant,Bakery/Snack,Indian/International,Snack,100,257,5.7,53.0,7.0,1.2,7.2,99,190,59,3.0,0.0,0,0.0,56,Yes,No,No
+449,Cupcake,Bakery/Snack,Indian/International,Snack,100,278,8.4,62.0,11.5,4.8,0.0,126,220,71,1.5,0.0,0,0.0,59,Yes,No,No
+447,Danish Pastry,Bakery/Snack,Indian/International,Snack,100,264,6.6,56.0,8.5,2.4,9.0,108,200,63,0.5,0.0,0,0.0,57,Yes,No,No
+461,Digestive Biscuit,Bakery/Snack,Indian/International,Snack,100,362,4.8,53.0,16.0,1.2,9.0,234,90,119,1.5,0.0,0,0.0,71,Yes,No,No
+483,Donut,Bakery/Snack,Indian/International,Snack,100,186,3.0,29.0,8.5,3.6,10.8,432,310,87,0.5,0.0,0,0.0,58,Yes,No,No
+500,Dry Bhel Mix,Bakery/Snack,Indian/International,Snack,100,305,3.9,35.0,7.0,0.0,3.6,85,230,35,3.0,0.0,0,0.0,75,Yes,No,No
+478,Energy Bar,Bakery/Snack,Indian/International,Snack,100,481,5.7,59.0,14.5,3.6,1.8,387,260,67,1.0,0.0,0,0.0,53,Yes,No,No
+454,Fruit Cake,Bakery/Snack,Indian/International,Snack,100,313,5.7,32.0,5.5,4.8,9.0,171,270,91,1.0,0.0,0,0.0,64,Yes,No,No
+440,Garlic Bread,Bakery/Snack,Indian/International,Snack,100,215,7.5,35.0,11.5,0.0,9.0,45,130,35,3.0,0.0,0,0.0,50,Yes,No,No
+476,Granola Bar,Bakery/Snack,Indian/International,Snack,100,467,3.9,53.0,11.5,1.2,10.8,369,240,59,3.0,0.0,0,0.0,51,Yes,No,No
+442,Hot Dog Bun,Bakery/Snack,Indian/International,Snack,100,229,9.3,41.0,14.5,2.4,0.0,63,150,43,1.0,0.0,0,0.0,52,Yes,No,No
+491,Kachori,Bakery/Snack,Indian/International,Snack,100,242,3.0,53.0,7.0,1.2,0.0,4,140,119,1.5,0.0,0,0.0,66,Yes,No,No
+498,Khakhra,Bakery/Snack,Indian/International,Snack,100,291,9.3,29.0,4.0,3.6,0.0,67,210,27,2.0,0.0,0,0.0,73,Yes,No,No
+459,Khari Biscuit,Bakery/Snack,Indian/International,Snack,100,348,3.0,47.0,13.0,4.8,5.4,216,320,111,0.5,0.0,0,0.0,69,Yes,No,No
+502,Makhana Roasted,Bakery/Snack,Indian/International,Snack,100,319,5.7,41.0,10.0,2.4,7.2,103,250,43,1.0,0.0,0,0.0,77,Yes,No,Yes
+460,Marie Biscuit,Bakery/Snack,Indian/International,Snack,100,355,3.9,50.0,14.5,0.0,7.2,225,80,115,1.0,0.0,0,0.0,70,Yes,No,No
+492,Mathri,Bakery/Snack,Indian/International,Snack,100,249,3.9,56.0,8.5,2.4,1.8,13,150,123,2.0,0.0,0,0.0,67,Yes,No,No
+448,Muffin,Bakery/Snack,Indian/International,Snack,100,271,7.5,59.0,10.0,3.6,10.8,117,210,67,1.0,0.0,0,0.0,58,Yes,No,No
+438,Multigrain Bread,Bakery/Snack,Indian/International,Snack,100,201,5.7,29.0,8.5,3.6,5.4,27,110,27,2.0,0.0,0,0.0,48,Yes,No,No
+496,Murukku,Bakery/Snack,Indian/International,Snack,100,277,7.5,23.0,14.5,1.2,9.0,49,190,19,1.0,0.0,0,0.0,71,Yes,No,No
+466,Nachos,Bakery/Snack,Indian/International,Snack,100,397,9.3,23.0,10.0,1.2,5.4,279,140,19,1.0,0.0,0,0.0,76,Yes,No,Yes
+493,Namak Para,Bakery/Snack,Indian/International,Snack,100,256,4.8,59.0,10.0,3.6,3.6,22,160,127,2.5,0.0,0,0.0,68,Yes,No,No
+479,Oat Cookies,Bakery/Snack,Indian/International,Snack,100,488,6.6,62.0,16.0,4.8,3.6,396,270,71,1.5,0.0,0,0.0,54,Yes,No,No
+488,Paneer Puff,Bakery/Snack,Indian/International,Snack,100,221,7.5,44.0,16.0,3.6,7.2,477,110,107,3.0,0.0,0,0.0,63,Yes,No,No
+443,Pav Bread,Bakery/Snack,Indian/International,Snack,100,236,3.0,44.0,16.0,3.6,1.8,72,160,47,1.5,0.0,0,0.0,53,Yes,No,No
+482,Peanut Cookies,Bakery/Snack,Indian/International,Snack,100,509,9.3,26.0,7.0,2.4,9.0,423,300,83,3.0,0.0,0,0.0,57,Yes,No,No
+450,Plain Cake,Bakery/Snack,Indian/International,Snack,100,285,9.3,20.0,13.0,0.0,1.8,135,230,75,2.0,0.0,0,0.0,60,Yes,No,No
+471,Popcorn,Bakery/Snack,Indian/International,Snack,100,432,6.6,38.0,4.0,1.2,1.8,324,190,39,0.5,0.0,0,0.0,46,Yes,No,Yes
+468,Potato Chips,Bakery/Snack,Indian/International,Snack,100,411,3.9,29.0,13.0,3.6,9.0,297,160,27,2.0,0.0,0,0.0,78,Yes,No,No
+474,Pretzels,Bakery/Snack,Indian/International,Snack,100,453,9.3,47.0,8.5,4.8,7.2,351,220,51,2.0,0.0,0,0.0,49,Yes,No,No
+477,Protein Bar,Bakery/Snack,Indian/International,Snack,100,474,4.8,56.0,13.0,2.4,0.0,378,250,63,0.5,0.0,0,0.0,52,Yes,No,No
+486,Puff Pastry,Bakery/Snack,Indian/International,Snack,100,207,5.7,38.0,13.0,1.2,3.6,459,90,99,2.0,0.0,0,0.0,61,Yes,No,No
+475,Rice Crackers,Bakery/Snack,Indian/International,Snack,100,460,3.0,50.0,10.0,0.0,9.0,360,230,55,2.5,0.0,0,0.0,50,Yes,No,Yes
+501,Roasted Chana Snack,Bakery/Snack,Indian/International,Snack,100,312,4.8,38.0,8.5,1.2,5.4,94,240,39,0.5,0.0,0,0.0,76,Yes,No,No
+456,Rusk,Bakery/Snack,Indian/International,Snack,100,327,7.5,38.0,8.5,1.2,0.0,189,290,99,2.0,0.0,0,0.0,66,Yes,No,No
+465,Salted Crackers,Bakery/Snack,Indian/International,Snack,100,390,8.4,20.0,8.5,0.0,3.6,270,130,15,0.5,0.0,0,0.0,75,Yes,No,No
+472,Salted Popcorn,Bakery/Snack,Indian/International,Snack,100,439,7.5,41.0,5.5,2.4,3.6,333,200,43,1.0,0.0,0,0.0,47,Yes,No,Yes
+490,Samosa,Bakery/Snack,Indian/International,Snack,100,235,9.3,50.0,5.5,0.0,10.8,495,130,115,1.0,0.0,0,0.0,65,Yes,No,No
+494,Sev,Bakery/Snack,Indian/International,Snack,100,263,5.7,62.0,11.5,4.8,5.4,31,170,131,3.0,0.0,0,0.0,69,Yes,No,No
+445,Sourdough Bread,Bakery/Snack,Indian/International,Snack,100,250,4.8,50.0,5.5,0.0,5.4,90,180,55,2.5,0.0,0,0.0,55,Yes,No,No
+452,Sponge Cake,Bakery/Snack,Indian/International,Snack,100,299,3.9,26.0,16.0,2.4,5.4,153,250,83,3.0,0.0,0,0.0,62,Yes,No,No
+470,Sweet Potato Chips,Bakery/Snack,Indian/International,Snack,100,425,5.7,35.0,16.0,0.0,0.0,315,180,35,3.0,0.0,0,0.0,45,Yes,No,No
+453,Tea Cake,Bakery/Snack,Indian/International,Snack,100,306,4.8,29.0,4.0,3.6,7.2,162,260,87,0.5,0.0,0,0.0,63,Yes,No,No
+499,Thepla Chips,Bakery/Snack,Indian/International,Snack,100,298,3.0,32.0,5.5,4.8,1.8,76,220,31,2.5,0.0,0,0.0,74,Yes,No,No
+457,Toast,Bakery/Snack,Indian/International,Snack,100,334,8.4,41.0,10.0,2.4,1.8,198,300,103,2.5,0.0,0,0.0,67,Yes,No,No
+467,Tortilla Chips,Bakery/Snack,Indian/International,Snack,100,404,3.0,26.0,11.5,2.4,7.2,288,150,23,1.5,0.0,0,0.0,77,Yes,No,Yes
+503,Trail Mix Snack,Bakery/Snack,Indian/International,Snack,100,326,6.6,44.0,11.5,3.6,9.0,112,260,47,1.5,0.0,0,0.0,78,Yes,No,No
+487,Veg Puff,Bakery/Snack,Indian/International,Snack,100,214,6.6,41.0,14.5,2.4,5.4,468,100,103,2.5,0.0,0,0.0,62,Yes,No,No
+437,White Bread,Bakery/Snack,Indian/International,Snack,100,187,3.9,23.0,5.5,1.2,1.8,9,90,19,1.0,0.0,0,0.0,46,Yes,No,No
+543,Almond Milk,Beverage,Indian/International,Drink,250,140,0.0,20.0,0.0,0.8,8.0,80,200,45,0.0,30.0,20,0.0,35,Yes,No,Yes
+533,Americano,Beverage,Indian/International,Drink,250,44,4.5,0.0,0.0,0.8,2.0,20,56,117,0.0,0.0,0,0.0,23,Yes,Yes,Yes
+523,Amla Juice,Beverage,Indian/International,Drink,250,144,4.5,16.0,2.4,0.0,0.0,90,256,77,0.8,24.0,0,0.0,38,Yes,Yes,Yes
+514,Apple Juice,Beverage,Indian/International,Drink,250,72,6.0,8.0,1.2,0.0,0.0,45,148,41,0.4,12.0,0,0.0,29,Yes,Yes,Yes
+525,Banana Smoothie,Beverage,Indian/International,Drink,250,160,0.0,24.0,0.0,1.6,4.0,100,280,85,0.0,36.0,0,0.0,40,Yes,Yes,Yes
+522,Beetroot Juice,Beverage,Indian/International,Drink,250,136,3.0,12.0,1.2,1.6,16.0,85,244,73,0.4,18.0,0,0.0,37,Yes,Yes,Yes
+529,Black Coffee,Beverage,Indian/International,Drink,250,12,6.0,12.0,0.0,0.0,12.0,0,328,101,0.0,18.0,0,0.0,44,Yes,Yes,Yes
+535,Black Tea,Beverage,Indian/International,Drink,250,60,0.0,8.0,2.4,0.0,6.0,30,80,5,0.8,12.0,0,0.0,25,Yes,Yes,Yes
+531,Cappuccino,Beverage,Indian/International,Drink,250,28,1.5,20.0,2.4,1.6,16.0,10,352,109,0.8,30.0,0,0.0,21,Yes,No,Yes
+521,Carrot Juice,Beverage,Indian/International,Drink,250,128,1.5,8.0,0.0,0.8,14.0,80,232,69,0.0,12.0,0,0.0,36,Yes,Yes,Yes
+538,Chamomile Tea,Beverage,Indian/International,Drink,250,84,4.5,20.0,1.2,0.0,12.0,45,116,17,0.4,30.0,0,0.0,28,Yes,Yes,Yes
+527,Chocolate Milk,Beverage,Indian/International,Drink,250,176,3.0,4.0,2.4,0.8,8.0,110,304,93,0.8,6.0,20,0.0,42,Yes,No,Yes
+509,Coconut Water,Beverage,Indian/International,Drink,250,32,6.0,16.0,0.0,0.8,8.0,20,88,21,0.0,24.0,0,0.0,24,Yes,Yes,Yes
+528,Cold Coffee,Beverage,Indian/International,Drink,250,4,4.5,8.0,3.6,1.6,10.0,115,316,97,1.2,12.0,0,0.0,43,Yes,Yes,Yes
+530,Espresso,Beverage,Indian/International,Drink,250,20,0.0,16.0,1.2,0.8,14.0,5,340,105,0.4,24.0,0,0.0,20,Yes,Yes,Yes
+524,Green Smoothie,Beverage,Indian/International,Drink,250,152,6.0,20.0,3.6,0.8,2.0,95,268,81,1.2,30.0,0,0.0,39,Yes,Yes,Yes
+534,Green Tea,Beverage,Indian/International,Drink,250,52,6.0,4.0,1.2,1.6,4.0,25,68,121,0.4,6.0,0,0.0,24,Yes,Yes,Yes
+518,Guava Juice,Beverage,Indian/International,Drink,250,104,4.5,24.0,1.2,0.8,8.0,65,196,57,0.4,36.0,0,0.0,33,Yes,Yes,Yes
+537,Herbal Tea,Beverage,Indian/International,Drink,250,76,3.0,16.0,0.0,1.6,10.0,40,104,13,0.0,24.0,0,0.0,27,Yes,Yes,Yes
+540,Hibiscus Tea,Beverage,Indian/International,Drink,250,100,0.0,0.0,3.6,1.6,16.0,55,140,25,1.2,0.0,0,0.0,30,Yes,Yes,Yes
+541,Kombucha,Beverage,Indian/International,Drink,250,108,1.5,4.0,0.0,0.0,0.0,60,152,29,0.0,6.0,0,0.0,31,Yes,Yes,Yes
+532,Latte,Beverage,Indian/International,Drink,250,36,3.0,24.0,3.6,0.0,0.0,15,44,113,1.2,36.0,0,0.0,22,Yes,No,Yes
+511,Lemon Water,Beverage,Indian/International,Drink,250,48,1.5,24.0,2.4,0.0,12.0,30,112,29,0.8,36.0,0,0.0,26,Yes,Yes,Yes
+512,Lemonade,Beverage,Indian/International,Drink,250,56,3.0,0.0,3.6,0.8,14.0,35,124,33,1.2,0.0,0,0.0,27,Yes,Yes,Yes
+515,Mango Juice,Beverage,Indian/International,Drink,250,80,0.0,12.0,2.4,0.8,2.0,50,160,45,0.8,18.0,0,0.0,30,Yes,Yes,Yes
+536,Masala Tea,Beverage,Indian/International,Drink,250,68,1.5,12.0,3.6,0.8,8.0,35,92,9,1.2,18.0,0,0.0,26,Yes,Yes,Yes
+526,Milkshake,Beverage,Indian/International,Drink,250,168,1.5,0.0,1.2,0.0,6.0,105,292,89,0.4,0.0,20,0.0,41,Yes,No,Yes
+507,Mineral Water,Beverage,Indian/International,Drink,250,16,3.0,8.0,2.4,1.6,4.0,10,64,13,0.8,12.0,0,0.0,22,Yes,Yes,Yes
+519,Mixed Fruit Juice,Beverage,Indian/International,Drink,250,112,6.0,0.0,2.4,1.6,10.0,70,208,61,0.8,0.0,0,0.0,34,Yes,Yes,Yes
+513,Orange Juice,Beverage,Indian/International,Drink,250,64,4.5,4.0,0.0,1.6,16.0,40,136,37,0.0,6.0,0,0.0,28,Yes,Yes,Yes
+539,Peppermint Tea,Beverage,Indian/International,Drink,250,92,6.0,24.0,2.4,0.8,14.0,50,128,21,0.8,36.0,0,0.0,29,Yes,Yes,Yes
+516,Pineapple Juice,Beverage,Indian/International,Drink,250,88,1.5,16.0,3.6,1.6,4.0,55,172,49,1.2,24.0,0,0.0,31,Yes,Yes,Yes
+517,Pomegranate Juice,Beverage,Indian/International,Drink,250,96,3.0,20.0,0.0,0.0,6.0,60,184,53,0.0,30.0,0,0.0,32,Yes,Yes,Yes
+542,Soy Milk,Beverage,Indian/International,Drink,250,132,6.0,16.0,3.6,0.0,6.0,75,188,41,1.2,24.0,20,0.0,34,Yes,No,Yes
+508,Sparkling Water,Beverage,Indian/International,Drink,250,24,4.5,12.0,3.6,0.0,6.0,15,76,17,1.2,18.0,0,0.0,23,Yes,Yes,Yes
+510,Sugarcane Juice,Beverage,Indian/International,Drink,250,40,0.0,20.0,1.2,1.6,10.0,25,100,25,0.4,30.0,0,0.0,25,Yes,Yes,Yes
+520,Tomato Juice,Beverage,Indian/International,Drink,250,120,0.0,4.0,3.6,0.0,12.0,75,220,65,1.2,6.0,0,0.0,35,Yes,Yes,Yes
+506,Water,Beverage,Indian/International,Drink,250,8,1.5,4.0,1.2,0.8,2.0,5,52,9,0.4,6.0,0,0.0,21,Yes,Yes,Yes
+368,Blue Cheese,Dairy,Indian/International,Breakfast/Snack,100,311,3.0,5.2,12.0,0.0,2.4,44,138,346,0.6,0.0,20,0.0,27,Yes,No,Yes
+338,Buffalo Milk,Dairy,Indian/International,Breakfast/Snack,100,71,6.0,5.2,6.0,0.0,2.4,14,118,106,0.6,0.0,40,0.0,27,Yes,No,Yes
+353,Butter,Dairy,Indian/International,Breakfast/Snack,100,191,4.5,5.2,18.0,0.0,6.0,119,253,226,0.6,0.0,20,0.0,27,Yes,No,Yes
+346,Buttermilk,Dairy,Indian/International,Breakfast/Snack,100,135,6.0,2.0,4.0,0.0,4.8,70,190,170,0.0,0.0,20,0.0,35,Yes,No,Yes
+361,Casein,Dairy,Indian/International,Breakfast/Snack,100,255,4.5,2.0,16.0,0.0,1.2,175,325,290,0.0,0.0,20,0.0,35,Yes,No,Yes
+348,Cheddar Cheese,Dairy,Indian/International,Breakfast/Snack,100,151,9.0,5.2,8.0,0.0,0.0,84,208,186,0.6,0.0,20,0.0,37,Yes,No,Yes
+357,Condensed Milk,Dairy,Indian/International,Breakfast/Snack,100,223,10.5,3.6,8.0,0.0,3.6,147,289,258,0.3,0.0,40,0.0,31,Yes,No,Yes
+351,Cottage Cheese,Dairy,Indian/International,Breakfast/Snack,100,175,13.5,2.0,14.0,0.0,3.6,105,235,210,0.0,0.0,20,0.0,25,Yes,No,Yes
+337,Cow Milk,Dairy,Indian/International,Breakfast/Snack,100,63,4.5,3.6,4.0,0.0,1.2,7,109,98,0.3,0.0,40,0.0,26,Yes,No,Yes
+352,Cream Cheese,Dairy,Indian/International,Breakfast/Snack,100,183,3.0,3.6,16.0,0.0,4.8,112,244,218,0.3,0.0,20,0.0,26,Yes,No,Yes
+343,Curd,Dairy,Indian/International,Breakfast/Snack,100,111,13.5,5.2,16.0,0.0,1.2,49,163,146,0.6,0.0,20,0.0,32,Yes,No,Yes
+358,Evaporated Milk,Dairy,Indian/International,Breakfast/Snack,100,231,12.0,5.2,10.0,0.0,4.8,154,298,266,0.6,0.0,40,0.0,32,Yes,No,Yes
+367,Feta,Dairy,Indian/International,Breakfast/Snack,100,303,13.5,3.6,10.0,0.0,1.2,37,129,338,0.3,0.0,20,0.0,26,Yes,No,Yes
+355,Fresh Cream,Dairy,Indian/International,Breakfast/Snack,100,207,7.5,8.4,4.0,0.0,1.2,133,271,242,1.2,0.0,20,0.0,29,Yes,No,Yes
+342,Full Cream Milk,Dairy,Indian/International,Breakfast/Snack,100,103,12.0,3.6,14.0,0.0,0.0,42,154,138,0.3,0.0,40,0.0,31,Yes,No,Yes
+354,Ghee,Dairy,Indian/International,Breakfast/Snack,100,199,6.0,6.8,2.0,0.0,0.0,126,262,234,0.9,0.0,20,0.0,28,Yes,No,Yes
+339,Goat Milk,Dairy,Indian/International,Breakfast/Snack,100,79,7.5,6.8,8.0,0.0,3.6,21,127,114,0.9,0.0,40,0.0,28,Yes,No,Yes
+344,Greek Yogurt,Dairy,Indian/International,Breakfast/Snack,100,119,3.0,6.8,18.0,0.0,2.4,56,172,154,0.9,0.0,20,0.0,33,Yes,No,Yes
+371,Ice Cream,Dairy,Indian/International,Breakfast/Snack,100,75,7.5,2.0,18.0,0.0,6.0,65,165,370,0.0,0.0,20,0.0,30,Yes,No,Yes
+365,Kefir,Dairy,Indian/International,Breakfast/Snack,100,287,10.5,8.4,6.0,0.0,6.0,23,111,322,1.2,0.0,20,0.0,39,Yes,No,Yes
+362,Lassi,Dairy,Indian/International,Breakfast/Snack,100,263,6.0,3.6,18.0,0.0,2.4,2,334,298,0.3,0.0,20,0.0,36,Yes,No,Yes
+359,Milk Powder,Dairy,Indian/International,Breakfast/Snack,100,239,13.5,6.8,12.0,0.0,6.0,161,307,274,0.9,0.0,40,0.0,33,Yes,No,Yes
+349,Mozzarella,Dairy,Indian/International,Breakfast/Snack,100,159,10.5,6.8,10.0,0.0,1.2,91,217,194,0.9,0.0,20,0.0,38,Yes,No,Yes
+347,Paneer,Dairy,Indian/International,Breakfast/Snack,100,143,7.5,3.6,6.0,0.0,6.0,77,199,178,0.3,0.0,20,0.0,36,Yes,No,Yes
+350,Parmesan,Dairy,Indian/International,Breakfast/Snack,100,167,12.0,8.4,12.0,0.0,2.4,98,226,202,1.2,0.0,20,0.0,39,Yes,No,Yes
+345,Plain Yogurt,Dairy,Indian/International,Breakfast/Snack,100,127,4.5,8.4,2.0,0.0,3.6,63,181,162,1.2,0.0,20,0.0,34,Yes,No,Yes
+370,Provolone,Dairy,Indian/International,Breakfast/Snack,100,67,6.0,8.4,16.0,0.0,4.8,58,156,362,1.2,0.0,20,0.0,29,Yes,No,Yes
+366,Ricotta,Dairy,Indian/International,Breakfast/Snack,100,295,12.0,2.0,8.0,0.0,0.0,30,120,330,0.0,0.0,20,0.0,25,Yes,No,Yes
+364,Salted Lassi,Dairy,Indian/International,Breakfast/Snack,100,279,9.0,6.8,4.0,0.0,4.8,16,102,314,0.9,0.0,20,0.0,38,Yes,No,Yes
+340,Skim Milk,Dairy,Indian/International,Breakfast/Snack,100,87,9.0,8.4,10.0,0.0,4.8,28,136,122,1.2,0.0,40,0.0,29,Yes,No,Yes
+363,Sweet Lassi,Dairy,Indian/International,Breakfast/Snack,100,271,7.5,5.2,2.0,0.0,3.6,9,343,306,0.6,0.0,20,0.0,37,Yes,No,Yes
+369,Swiss Cheese,Dairy,Indian/International,Breakfast/Snack,100,59,4.5,6.8,14.0,0.0,3.6,51,147,354,0.9,0.0,20,0.0,28,Yes,No,Yes
+341,Toned Milk,Dairy,Indian/International,Breakfast/Snack,100,95,10.5,2.0,12.0,0.0,6.0,35,145,130,0.0,0.0,40,0.0,30,Yes,No,Yes
+360,Whey Protein,Dairy,Indian/International,Breakfast/Snack,100,247,3.0,8.4,14.0,0.0,0.0,168,316,282,1.2,0.0,20,0.0,34,Yes,No,Yes
+356,Whipping Cream,Dairy,Indian/International,Breakfast/Snack,100,215,9.0,2.0,6.0,0.0,2.4,140,280,250,0.0,0.0,20,0.0,30,Yes,No,Yes
+70,Acai Berry,Fruit,International/Indian,Snack,100,50,1.5,18.0,0.0,4.2,13.0,0,240,15,0.1,5.0,0,0.0,40,Yes,Yes,Yes
+39,Amla,Fruit,International/Indian,Snack,100,73,1.7,25.0,0.4,3.4,11.0,12,413,26,0.9,60.0,0,0.0,39,Yes,Yes,Yes
+1,Apple,Fruit,International/Indian,Snack,100,47,0.5,11.0,0.1,1.8,7.0,3,117,9,0.3,10.0,0,0.0,31,Yes,Yes,Yes
+20,Apricot,Fruit,International/Indian,Snack,100,100,1.1,8.0,0.0,2.6,9.0,0,440,40,1.3,35.0,0,0.0,50,Yes,Yes,Yes
+34,Avocado,Fruit,International/Indian,Snack,100,118,0.7,10.0,0.4,4.2,13.0,12,328,6,1.3,35.0,0,0.0,34,Yes,Yes,Yes
+56,Bael,Fruit,International/Indian,Snack,100,112,0.3,16.0,0.1,2.6,9.0,3,352,49,0.1,5.0,0,0.0,56,Yes,Yes,Yes
+2,Banana,Fruit,International/Indian,Snack,100,54,0.7,14.0,0.2,2.6,9.0,6,134,13,0.5,15.0,0,0.0,32,Yes,Yes,Yes
+71,Bilberry,Fruit,International/Indian,Snack,100,57,1.7,21.0,0.1,5.0,15.0,3,257,19,0.3,10.0,0,0.0,41,Yes,Yes,Yes
+50,Black Grapes,Fruit,International/Indian,Snack,100,70,0.7,18.0,0.0,2.6,9.0,0,250,25,0.3,45.0,0,0.0,50,Yes,Yes,Yes
+14,Blackberry,Fruit,International/Indian,Snack,100,58,1.5,10.0,0.4,2.6,9.0,12,338,16,0.1,5.0,0,0.0,44,Yes,Yes,Yes
+13,Blueberry,Fruit,International/Indian,Snack,100,51,1.3,27.0,0.3,1.8,7.0,9,321,12,1.3,70.0,0,0.0,43,Yes,Yes,Yes
+59,Breadfruit,Fruit,International/Indian,Snack,100,53,0.9,25.0,0.4,5.0,15.0,12,403,16,0.7,20.0,0,0.0,59,Yes,Yes,Yes
+16,Cherry,Fruit,International/Indian,Snack,100,72,0.3,16.0,0.1,4.2,13.0,3,372,24,0.5,15.0,0,0.0,46,Yes,Yes,Yes
+45,Clementine,Fruit,International/Indian,Snack,100,115,1.3,23.0,0.0,3.4,11.0,0,165,5,0.7,20.0,0,0.0,45,Yes,Yes,Yes
+72,Cloudberry,Fruit,International/Indian,Snack,100,64,0.3,24.0,0.2,1.0,5.0,6,274,23,0.5,15.0,0,0.0,42,Yes,Yes,Yes
+32,Coconut Flesh,Fruit,International/Indian,Snack,100,104,0.3,24.0,0.2,2.6,9.0,6,294,43,0.9,25.0,0,0.0,32,Yes,Yes,Yes
+40,Cranberry,Fruit,International/Indian,Snack,100,80,0.3,8.0,0.0,4.2,13.0,0,430,30,1.1,65.0,0,0.0,40,Yes,Yes,Yes
+29,Custard Apple,Fruit,International/Indian,Snack,100,83,1.3,15.0,0.4,5.0,15.0,12,243,31,0.3,10.0,0,0.0,59,Yes,Yes,Yes
+31,Dates,Fruit,International/Indian,Snack,100,97,1.7,21.0,0.1,1.8,7.0,3,277,39,0.7,20.0,0,0.0,31,Yes,Yes,Yes
+25,Dragon Fruit,Fruit,International/Indian,Snack,100,55,0.5,23.0,0.0,1.8,7.0,0,175,15,0.9,60.0,0,0.0,55,Yes,Yes,Yes
+63,Durian,Fruit,International/Indian,Snack,100,81,1.7,17.0,0.3,3.4,11.0,9,121,32,0.1,40.0,0,0.0,33,Yes,Yes,Yes
+69,Elderberry,Fruit,International/Indian,Snack,100,43,1.3,15.0,0.4,3.4,11.0,12,223,11,1.3,70.0,0,0.0,39,Yes,Yes,Yes
+30,Fig,Fruit,International/Indian,Snack,100,90,1.5,18.0,0.0,1.0,5.0,0,260,35,0.5,15.0,0,0.0,30,Yes,Yes,Yes
+68,Goji Berry,Fruit,International/Indian,Snack,100,116,1.1,12.0,0.3,2.6,9.0,9,206,7,1.1,65.0,0,0.0,38,Yes,Yes,Yes
+53,Golden Apple,Fruit,International/Indian,Snack,100,91,1.3,27.0,0.3,5.0,15.0,9,301,37,0.9,60.0,0,0.0,53,Yes,Yes,Yes
+41,Gooseberry,Fruit,International/Indian,Snack,100,87,0.5,11.0,0.1,5.0,15.0,3,447,34,1.3,70.0,0,0.0,41,Yes,Yes,Yes
+11,Grapes,Fruit,International/Indian,Snack,100,117,0.9,21.0,0.1,5.0,15.0,3,287,49,0.9,60.0,0,0.0,41,Yes,Yes,Yes
+52,Green Apple,Fruit,International/Indian,Snack,100,84,1.1,24.0,0.2,4.2,13.0,6,284,33,0.7,55.0,0,0.0,52,Yes,Yes,Yes
+49,Green Grapes,Fruit,International/Indian,Snack,100,63,0.5,15.0,0.4,1.8,7.0,12,233,21,0.1,40.0,0,0.0,49,Yes,Yes,Yes
+4,Guava,Fruit,International/Indian,Snack,100,68,1.1,20.0,0.4,4.2,13.0,12,168,21,0.9,25.0,0,0.0,34,Yes,Yes,Yes
+54,Indian Blackberry,Fruit,International/Indian,Snack,100,98,1.5,10.0,0.4,1.0,5.0,12,318,41,1.1,65.0,0,0.0,54,Yes,Yes,Yes
+27,Jackfruit,Fruit,International/Indian,Snack,100,69,0.9,9.0,0.2,3.4,11.0,6,209,23,1.3,70.0,0,0.0,57,Yes,Yes,Yes
+38,Jamun,Fruit,International/Indian,Snack,100,66,1.5,22.0,0.3,2.6,9.0,9,396,22,0.7,55.0,0,0.0,38,Yes,Yes,Yes
+67,Jujube,Fruit,International/Indian,Snack,100,109,0.9,9.0,0.2,1.8,7.0,6,189,48,0.9,60.0,0,0.0,37,Yes,Yes,Yes
+57,Karonda,Fruit,International/Indian,Snack,100,119,0.5,19.0,0.2,3.4,11.0,6,369,8,0.3,10.0,0,0.0,57,Yes,Yes,Yes
+21,Kiwi,Fruit,International/Indian,Snack,100,107,1.3,11.0,0.1,3.4,11.0,3,107,44,0.1,40.0,0,0.0,51,Yes,Yes,Yes
+22,Lemon,Fruit,International/Indian,Snack,100,114,1.5,14.0,0.2,4.2,13.0,6,124,48,0.3,45.0,0,0.0,52,Yes,Yes,Yes
+23,Lime,Fruit,International/Indian,Snack,100,41,1.7,17.0,0.3,5.0,15.0,9,141,7,0.5,50.0,0,0.0,53,Yes,Yes,Yes
+60,Longan,Fruit,International/Indian,Snack,100,60,1.1,8.0,0.0,1.0,5.0,0,420,20,0.9,25.0,0,0.0,30,Yes,Yes,Yes
+65,Loquat,Fruit,International/Indian,Snack,100,95,0.5,23.0,0.0,5.0,15.0,0,155,40,0.5,50.0,0,0.0,35,Yes,Yes,Yes
+26,Lychee,Fruit,International/Indian,Snack,100,62,0.7,26.0,0.1,2.6,9.0,3,192,19,1.1,65.0,0,0.0,56,Yes,Yes,Yes
+47,Mandarin,Fruit,International/Indian,Snack,100,49,1.7,9.0,0.2,5.0,15.0,6,199,13,1.1,30.0,0,0.0,47,Yes,Yes,Yes
+6,Mango,Fruit,International/Indian,Snack,100,82,1.5,26.0,0.1,1.0,5.0,3,202,29,1.3,35.0,0,0.0,36,Yes,Yes,Yes
+73,Miracle Fruit,Fruit,International/Indian,Snack,100,71,0.5,27.0,0.3,1.8,7.0,9,291,27,0.7,20.0,0,0.0,43,Yes,Yes,Yes
+37,Mulberry,Fruit,International/Indian,Snack,100,59,1.3,19.0,0.2,1.8,7.0,6,379,18,0.5,50.0,0,0.0,37,Yes,Yes,Yes
+9,Muskmelon,Fruit,International/Indian,Snack,100,103,0.5,15.0,0.4,3.4,11.0,12,253,41,0.5,50.0,0,0.0,39,Yes,Yes,Yes
+43,Nectarine,Fruit,International/Indian,Snack,100,101,0.9,17.0,0.3,1.8,7.0,9,131,42,0.3,10.0,0,0.0,43,Yes,Yes,Yes
+3,Orange,Fruit,International/Indian,Snack,100,61,0.9,17.0,0.3,3.4,11.0,9,151,17,0.7,20.0,0,0.0,33,Yes,Yes,Yes
+5,Papaya,Fruit,International/Indian,Snack,100,75,1.3,23.0,0.0,5.0,15.0,0,185,25,1.1,30.0,0,0.0,35,Yes,Yes,Yes
+35,Passion Fruit,Fruit,International/Indian,Snack,100,45,0.9,13.0,0.0,5.0,15.0,0,345,10,0.1,40.0,0,0.0,35,Yes,Yes,Yes
+17,Peach,Fruit,International/Indian,Snack,100,79,0.5,19.0,0.2,5.0,15.0,6,389,28,0.7,20.0,0,0.0,47,Yes,Yes,Yes
+18,Pear,Fruit,International/Indian,Snack,100,86,0.7,22.0,0.3,1.0,5.0,9,406,32,0.9,25.0,0,0.0,48,Yes,Yes,Yes
+42,Persimmon,Fruit,International/Indian,Snack,100,94,0.7,14.0,0.2,1.0,5.0,6,114,38,0.1,5.0,0,0.0,42,Yes,Yes,Yes
+7,Pineapple,Fruit,International/Indian,Snack,100,89,1.7,9.0,0.2,1.8,7.0,6,219,33,0.1,40.0,0,0.0,37,Yes,Yes,Yes
+19,Plum,Fruit,International/Indian,Snack,100,93,0.9,25.0,0.4,1.8,7.0,12,423,36,1.1,30.0,0,0.0,49,Yes,Yes,Yes
+10,Pomegranate,Fruit,International/Indian,Snack,100,110,0.7,18.0,0.0,4.2,13.0,0,270,45,0.7,55.0,0,0.0,40,Yes,Yes,Yes
+46,Pomelo,Fruit,International/Indian,Snack,100,42,1.5,26.0,0.1,4.2,13.0,3,182,9,0.9,25.0,0,0.0,46,Yes,Yes,Yes
+64,Prickly Pear,Fruit,International/Indian,Snack,100,88,0.3,20.0,0.4,4.2,13.0,12,138,36,0.3,45.0,0,0.0,34,Yes,Yes,Yes
+66,Quince,Fruit,International/Indian,Snack,100,102,0.7,26.0,0.1,1.0,5.0,3,172,44,0.7,55.0,0,0.0,36,Yes,Yes,Yes
+61,Rambutan,Fruit,International/Indian,Snack,100,67,1.3,11.0,0.1,1.8,7.0,3,437,24,1.1,30.0,0,0.0,31,Yes,Yes,Yes
+15,Raspberry,Fruit,International/Indian,Snack,100,65,1.7,13.0,0.0,3.4,11.0,0,355,20,0.3,10.0,0,0.0,45,Yes,Yes,Yes
+51,Red Apple,Fruit,International/Indian,Snack,100,77,0.9,21.0,0.1,3.4,11.0,3,267,29,0.5,50.0,0,0.0,51,Yes,Yes,Yes
+48,Red Grapes,Fruit,International/Indian,Snack,100,56,0.3,12.0,0.3,1.0,5.0,9,216,17,1.3,35.0,0,0.0,48,Yes,Yes,Yes
+75,Rose Apple,Fruit,International/Indian,Snack,100,85,0.9,13.0,0.0,3.4,11.0,0,325,35,1.1,30.0,0,0.0,45,Yes,Yes,Yes
+58,Roselle Fruit,Fruit,International/Indian,Snack,100,46,0.7,22.0,0.3,4.2,13.0,9,386,12,0.5,15.0,0,0.0,58,Yes,Yes,Yes
+28,Sapota,Fruit,International/Indian,Snack,100,76,1.1,12.0,0.3,4.2,13.0,9,226,27,0.1,5.0,0,0.0,58,Yes,Yes,Yes
+62,Soursop,Fruit,International/Indian,Snack,100,74,1.5,14.0,0.2,2.6,9.0,6,104,28,1.3,35.0,0,0.0,32,Yes,Yes,Yes
+36,Star Fruit,Fruit,International/Indian,Snack,100,52,1.1,16.0,0.1,1.0,5.0,3,362,14,0.3,45.0,0,0.0,36,Yes,Yes,Yes
+12,Strawberry,Fruit,International/Indian,Snack,100,44,1.1,24.0,0.2,1.0,5.0,6,304,8,1.1,65.0,0,0.0,42,Yes,Yes,Yes
+74,Surinam Cherry,Fruit,International/Indian,Snack,100,78,0.7,10.0,0.4,2.6,9.0,12,308,31,0.9,25.0,0,0.0,44,Yes,Yes,Yes
+24,Sweet Lime,Fruit,International/Indian,Snack,100,48,0.3,20.0,0.4,1.0,5.0,12,158,11,0.7,55.0,0,0.0,54,Yes,Yes,Yes
+44,Tangerine,Fruit,International/Indian,Snack,100,108,1.1,20.0,0.4,2.6,9.0,12,148,46,0.5,15.0,0,0.0,44,Yes,Yes,Yes
+33,Tender Coconut,Fruit,International/Indian,Snack,100,111,0.5,27.0,0.3,3.4,11.0,9,311,47,1.1,30.0,0,0.0,33,Yes,Yes,Yes
+8,Watermelon,Fruit,International/Indian,Snack,100,96,0.3,12.0,0.3,2.6,9.0,9,236,37,0.3,45.0,0,0.0,38,Yes,Yes,Yes
+55,Wood Apple,Fruit,International/Indian,Snack,100,105,1.7,13.0,0.0,1.8,7.0,0,335,45,1.3,70.0,0,0.0,55,Yes,Yes,Yes
+197,Amaranth,Grain/Cereal,Indian,Breakfast/Lunch,100,220,6.1,31.0,2.9,2.0,5.4,8,346,25,3.4,1.2,0,0.0,62,Yes,Yes,Yes
+192,Barley,Grain/Cereal,Indian,Breakfast/Lunch,100,195,9.7,71.0,3.5,4.0,6.4,68,281,90,0.9,1.2,0,0.0,57,Yes,Yes,No
+202,Barnyard Millet,Grain/Cereal,Indian,Breakfast/Lunch,100,245,2.5,46.0,2.3,7.0,4.4,28,411,50,1.9,1.2,0,0.0,67,Yes,Yes,Yes
+178,Basmati Rice,Grain/Cereal,Indian,Breakfast/Lunch,100,125,5.2,29.0,2.3,4.0,3.6,12,99,20,1.9,1.8,0,0.0,43,Yes,Yes,Yes
+180,Black Rice,Grain/Cereal,Indian,Breakfast/Lunch,100,135,7.0,35.0,3.5,6.0,6.0,20,125,30,2.9,0.0,0,0.0,45,Yes,Yes,Yes
+191,Broken Wheat,Grain/Cereal,Indian,Breakfast/Lunch,100,190,8.8,68.0,2.9,3.0,5.2,64,268,85,0.4,0.6,0,0.0,56,Yes,Yes,No
+176,Brown Rice,Grain/Cereal,Indian,Breakfast/Lunch,100,115,3.4,23.0,1.1,2.0,1.2,4,73,10,0.9,0.6,0,0.0,41,Yes,Yes,Yes
+195,Buckwheat,Grain/Cereal,Indian,Breakfast/Lunch,100,210,4.3,25.0,1.7,7.0,3.0,0,320,15,2.4,0.0,0,0.0,60,Yes,Yes,Yes
+225,Buckwheat Noodles,Grain/Cereal,International,Breakfast/Lunch,100,115,7.9,63.0,2.3,3.0,5.2,44,303,80,1.9,0.6,0,0.0,61,Yes,Yes,Yes
+209,Bulgur,Grain/Cereal,International,Breakfast/Lunch,100,285,9.7,70.0,3.5,1.0,0.0,60,95,90,1.9,0.0,0,0.0,45,Yes,Yes,No
+207,Cornmeal,Grain/Cereal,International,Breakfast/Lunch,100,275,7.9,64.0,2.3,6.0,4.6,52,69,80,0.9,1.8,0,0.0,43,Yes,Yes,Yes
+210,Couscous,Grain/Cereal,International,Breakfast/Lunch,100,290,2.5,73.0,0.5,2.0,1.2,64,108,5,2.4,0.6,0,0.0,46,Yes,Yes,No
+232,Cracked Wheat,Grain/Cereal,International,Breakfast/Lunch,100,150,6.1,29.0,2.9,3.0,6.6,72,394,25,1.4,1.8,0,0.0,68,Yes,Yes,No
+211,Farro,Grain/Cereal,International,Breakfast/Lunch,100,295,3.4,21.0,1.1,3.0,2.4,68,121,10,2.9,1.2,0,0.0,47,Yes,Yes,Yes
+200,Finger Millet,Grain/Cereal,Indian,Breakfast/Lunch,100,235,8.8,40.0,1.1,5.0,2.0,20,385,40,0.9,0.0,0,0.0,65,Yes,Yes,Yes
+233,Flattened Rice,Grain/Cereal,International,Breakfast/Lunch,100,155,7.0,32.0,3.5,4.0,0.8,76,407,30,1.9,2.4,0,0.0,69,Yes,Yes,Yes
+198,Foxtail Millet,Grain/Cereal,Indian,Breakfast/Lunch,100,225,7.0,34.0,3.5,3.0,6.6,12,359,30,3.9,1.8,0,0.0,63,Yes,Yes,Yes
+221,Granola,Grain/Cereal,International,Breakfast/Lunch,100,345,4.3,51.0,3.5,6.0,0.4,28,251,60,3.9,1.2,0,0.0,57,Yes,Yes,Yes
+186,Instant Oats,Grain/Cereal,Indian,Breakfast/Lunch,100,165,4.3,53.0,3.5,5.0,6.2,44,203,60,1.9,0.6,0,0.0,51,Yes,Yes,Yes
+182,Jasmine Rice,Grain/Cereal,Indian,Breakfast/Lunch,100,145,8.8,41.0,1.1,1.0,1.4,28,151,40,3.9,1.2,0,0.0,47,Yes,Yes,Yes
+201,Kodo Millet,Grain/Cereal,Indian,Breakfast/Lunch,100,240,9.7,43.0,1.7,6.0,3.2,24,398,45,1.4,0.6,0,0.0,66,Yes,Yes,Yes
+203,Little Millet,Grain/Cereal,Indian,Breakfast/Lunch,100,250,3.4,49.0,2.9,1.0,5.6,32,424,55,2.4,1.8,0,0.0,68,Yes,Yes,Yes
+229,Maize Flour,Grain/Cereal,International,Breakfast/Lunch,100,135,3.4,20.0,1.1,7.0,3.0,60,355,10,3.9,0.0,0,0.0,65,Yes,Yes,Yes
+220,Muesli,Grain/Cereal,International,Breakfast/Lunch,100,340,3.4,48.0,2.9,5.0,6.2,24,238,55,3.4,0.6,0,0.0,56,Yes,Yes,Yes
+231,Multigrain Flour,Grain/Cereal,International,Breakfast/Lunch,100,145,5.2,26.0,2.3,2.0,5.4,68,381,20,0.9,1.2,0,0.0,67,Yes,Yes,Yes
+219,Oat Bran,Grain/Cereal,International,Breakfast/Lunch,100,335,2.5,45.0,2.3,4.0,5.0,20,225,50,2.9,0.0,0,0.0,55,Yes,Yes,Yes
+183,Parboiled Rice,Grain/Cereal,Indian,Breakfast/Lunch,100,150,9.7,44.0,1.7,2.0,2.6,32,164,45,0.4,1.8,0,0.0,48,Yes,Yes,Yes
+193,Pearl Barley,Grain/Cereal,Indian,Breakfast/Lunch,100,200,2.5,74.0,0.5,5.0,0.6,72,294,5,1.4,1.8,0,0.0,58,Yes,Yes,No
+199,Pearl Millet,Grain/Cereal,Indian,Breakfast/Lunch,100,230,7.9,37.0,0.5,4.0,0.8,16,372,35,0.4,2.4,0,0.0,64,Yes,Yes,Yes
+215,Poha,Grain/Cereal,International,Breakfast/Lunch,100,315,7.0,33.0,3.5,7.0,0.2,4,173,30,0.9,0.6,0,0.0,51,Yes,Yes,Yes
+208,Polenta,Grain/Cereal,International,Breakfast/Lunch,100,280,8.8,67.0,2.9,7.0,5.8,56,82,85,1.4,2.4,0,0.0,44,Yes,Yes,Yes
+204,Proso Millet,Grain/Cereal,Indian,Breakfast/Lunch,100,255,4.3,52.0,3.5,2.0,6.8,36,437,60,2.9,2.4,0,0.0,69,Yes,Yes,Yes
+216,Puffed Rice,Grain/Cereal,International,Breakfast/Lunch,100,320,7.9,36.0,0.5,1.0,1.4,8,186,35,1.4,1.2,0,0.0,52,Yes,Yes,Yes
+196,Quinoa,Grain/Cereal,Indian,Breakfast/Lunch,100,215,5.2,28.0,2.3,1.0,4.2,4,333,20,2.9,0.6,0,0.0,61,Yes,Yes,Yes
+179,Red Rice,Grain/Cereal,Indian,Breakfast/Lunch,100,130,6.1,32.0,2.9,5.0,4.8,16,112,25,2.4,2.4,0,0.0,44,Yes,Yes,Yes
+217,Rice Bran,Grain/Cereal,International,Breakfast/Lunch,100,325,8.8,39.0,1.1,2.0,2.6,12,199,40,1.9,1.8,0,0.0,53,Yes,Yes,Yes
+230,Rice Flour,Grain/Cereal,International,Breakfast/Lunch,100,140,4.3,23.0,1.7,1.0,4.2,64,368,15,0.4,0.6,0,0.0,66,Yes,Yes,Yes
+224,Rice Noodles,Grain/Cereal,International,Breakfast/Lunch,100,110,7.0,60.0,1.7,2.0,4.0,40,290,75,1.4,0.0,0,0.0,60,Yes,Yes,Yes
+234,Rice Vermicelli,Grain/Cereal,International,Breakfast/Lunch,100,160,7.9,35.0,0.5,5.0,2.0,0,420,35,2.4,0.0,0,0.0,40,Yes,Yes,Yes
+184,Rolled Oats,Grain/Cereal,Indian,Breakfast/Lunch,100,155,2.5,47.0,2.3,3.0,3.8,36,177,50,0.9,2.4,0,0.0,49,Yes,Yes,Yes
+194,Rye,Grain/Cereal,Indian,Breakfast/Lunch,100,205,3.4,22.0,1.1,6.0,1.8,76,307,10,1.9,2.4,0,0.0,59,Yes,Yes,No
+228,Sago,Grain/Cereal,International,Breakfast/Lunch,100,130,2.5,72.0,0.5,6.0,1.8,56,342,5,3.4,2.4,0,0.0,64,Yes,Yes,Yes
+190,Semolina,Grain/Cereal,Indian,Breakfast/Lunch,100,185,7.9,65.0,2.3,2.0,4.0,60,255,80,3.9,0.0,0,0.0,55,Yes,Yes,No
+205,Sorghum,Grain/Cereal,Indian,Breakfast/Lunch,100,260,5.2,55.0,0.5,3.0,1.0,40,450,65,3.4,0.0,0,0.0,40,Yes,Yes,Yes
+213,Spelt,Grain/Cereal,International,Breakfast/Lunch,100,305,5.2,27.0,2.3,5.0,4.8,76,147,20,3.9,2.4,0,0.0,49,Yes,Yes,No
+185,Steel Cut Oats,Grain/Cereal,Indian,Breakfast/Lunch,100,160,3.4,50.0,2.9,4.0,5.0,40,190,55,1.4,0.0,0,0.0,50,Yes,Yes,Yes
+206,Sweet Corn,Grain/Cereal,International,Breakfast/Lunch,100,270,7.0,61.0,1.7,5.0,3.4,48,476,75,0.4,1.2,0,0.0,42,Yes,Yes,Yes
+227,Tapioca Pearls,Grain/Cereal,International,Breakfast/Lunch,100,125,9.7,69.0,3.5,5.0,0.6,52,329,90,2.9,1.8,0,0.0,63,Yes,Yes,Yes
+212,Teff,Grain/Cereal,International,Breakfast/Lunch,100,300,4.3,24.0,1.7,4.0,3.6,72,134,15,3.4,1.8,0,0.0,48,Yes,Yes,Yes
+214,Triticale,Grain/Cereal,International,Breakfast/Lunch,100,310,6.1,30.0,2.9,6.0,6.0,0,160,25,0.4,0.0,0,0.0,50,Yes,Yes,No
+226,Vermicelli,Grain/Cereal,International,Breakfast/Lunch,100,120,8.8,66.0,2.9,4.0,6.4,48,316,85,2.4,1.2,0,0.0,62,Yes,Yes,Yes
+218,Wheat Bran,Grain/Cereal,International,Breakfast/Lunch,100,330,9.7,42.0,1.7,3.0,3.8,16,212,45,2.4,2.4,0,0.0,54,Yes,Yes,No
+189,Wheat Flour,Grain/Cereal,Indian,Breakfast/Lunch,100,180,7.0,62.0,1.7,1.0,2.8,56,242,75,3.4,2.4,0,0.0,54,Yes,Yes,No
+177,White Rice,Grain/Cereal,Indian,Breakfast/Lunch,100,120,4.3,26.0,1.7,3.0,2.4,8,86,15,1.4,1.2,0,0.0,42,Yes,Yes,Yes
+187,Whole Oats,Grain/Cereal,Indian,Breakfast/Lunch,100,170,5.2,56.0,0.5,6.0,0.4,48,216,65,2.4,1.2,0,0.0,52,Yes,Yes,Yes
+188,Whole Wheat,Grain/Cereal,Indian,Breakfast/Lunch,100,175,6.1,59.0,1.1,7.0,1.6,52,229,70,2.9,1.8,0,0.0,53,Yes,Yes,No
+222,Whole Wheat Bread,Grain/Cereal,International,Breakfast/Lunch,100,350,5.2,54.0,0.5,7.0,1.6,32,264,65,0.4,1.8,0,0.0,58,Yes,Yes,No
+223,Whole Wheat Pasta,Grain/Cereal,International,Breakfast/Lunch,100,355,6.1,57.0,1.1,1.0,2.8,36,277,70,0.9,2.4,0,0.0,59,Yes,Yes,No
+181,Wild Rice,Grain/Cereal,Indian,Breakfast/Lunch,100,140,7.9,38.0,0.5,7.0,0.2,24,138,35,3.4,0.6,0,0.0,46,Yes,Yes,Yes
+591,Aloo Gobi,Indian Dish,Indian,Varies,150,183,4.4,47.0,3.6,6.0,1.2,441,209,85,0.8,4.0,0,0.0,59,Yes,No,No
+553,Aloo Paratha,Indian Dish,Indian,Varies,150,197,7.2,53.0,6.8,1.5,6.0,99,241,75,3.2,12.0,0,0.0,51,Yes,No,No
+628,Aloo Tikki,Indian Dish,Indian,Varies,150,162,11.4,38.0,11.6,1.5,2.4,274,166,90,2.0,8.0,0,0.0,66,Yes,No,No
+611,Appam,Indian Dish,Indian,Varies,150,323,10.0,27.0,10.0,6.0,3.6,121,429,185,4.4,4.0,0,0.0,49,Yes,No,Yes
+609,Avial,Indian Dish,Indian,Varies,150,309,7.2,21.0,6.8,3.0,1.2,103,407,175,3.2,12.0,0,0.0,47,Yes,No,No
+590,Baingan Bharta,Indian Dish,Indian,Varies,150,176,3.0,44.0,2.0,4.5,0.0,432,198,80,4.4,0.0,0,0.0,58,Yes,No,No
+638,Basundi,Indian Dish,Indian,Varies,150,246,5.8,34.0,5.2,4.5,2.4,382,298,150,0.8,8.0,0,0.0,48,Yes,No,No
+582,Bharli Vangi,Indian Dish,Indian,Varies,150,120,3.0,20.0,2.0,0.0,4.8,360,560,40,3.8,0.0,0,0.0,50,Yes,No,No
+592,Bhindi Masala,Indian Dish,Indian,Varies,150,190,5.8,50.0,5.2,0.0,2.4,450,220,90,1.4,8.0,0,0.0,60,Yes,No,No
+565,Biryani,Indian Dish,Indian,Varies,150,281,12.8,49.0,13.2,4.5,6.0,207,373,135,2.0,12.0,0,0.0,63,Yes,No,No
+615,Bisi Bele Bath,Indian Dish,Indian,Varies,150,351,4.4,39.0,3.6,4.5,1.2,157,473,25,2.6,4.0,0,0.0,53,Yes,No,No
+616,Bisibele Rice,Indian Dish,Indian,Varies,150,358,5.8,42.0,5.2,6.0,2.4,166,484,30,3.2,8.0,0,0.0,54,Yes,No,Yes
+596,Butter Chicken,Indian Dish,Indian,Varies,150,218,11.4,22.0,11.6,6.0,0.0,486,264,110,3.8,8.0,0,0.0,64,No,No,No
+561,Butter Naan,Indian Dish,Indian,Varies,150,253,7.2,37.0,6.8,6.0,1.2,171,329,115,3.8,12.0,0,0.0,59,Yes,No,No
+558,Chapati,Indian Dish,Indian,Varies,150,232,3.0,28.0,2.0,1.5,4.8,144,296,100,2.0,0.0,0,0.0,56,Yes,No,No
+595,Chicken Curry,Indian Dish,Indian,Varies,150,211,10.0,59.0,10.0,4.5,6.0,477,253,105,3.2,4.0,0,0.0,63,No,No,No
+597,Chicken Tikka,Indian Dish,Indian,Varies,150,225,12.8,25.0,13.2,0.0,1.2,495,275,115,4.4,12.0,0,0.0,65,No,No,No
+598,Chicken Tikka Masala,Indian Dish,Indian,Varies,150,232,3.0,28.0,2.0,1.5,2.4,4,286,120,0.8,0.0,0,0.0,66,No,No,No
+571,Chole Bhature,Indian Dish,Indian,Varies,150,323,10.0,27.0,10.0,6.0,6.0,261,439,165,1.4,4.0,0,0.0,69,Yes,No,No
+567,Curd Rice,Indian Dish,Indian,Varies,150,295,4.4,55.0,3.6,0.0,1.2,225,395,145,3.2,4.0,0,0.0,65,Yes,No,Yes
+630,Dahi Vada,Indian Dish,Indian,Varies,150,190,5.8,50.0,5.2,0.0,0.0,310,210,110,4.4,8.0,0,0.0,40,Yes,No,No
+621,Dal Baati,Indian Dish,Indian,Varies,150,393,12.8,57.0,13.2,6.0,1.2,211,539,55,2.0,12.0,0,0.0,59,Yes,No,No
+569,Dal Khichdi,Indian Dish,Indian,Varies,150,309,7.2,21.0,6.8,3.0,3.6,243,417,155,4.4,12.0,0,0.0,67,Yes,No,No
+584,Dal Makhani,Indian Dish,Indian,Varies,150,134,5.8,26.0,5.2,3.0,0.0,378,132,50,0.8,8.0,0,0.0,52,Yes,No,No
+583,Dal Tadka,Indian Dish,Indian,Varies,150,127,4.4,23.0,3.6,1.5,6.0,369,121,45,4.4,4.0,0,0.0,51,Yes,No,No
+575,Dhokla,Indian Dish,Indian,Varies,150,351,4.4,39.0,3.6,4.5,3.6,297,483,185,3.8,4.0,0,0.0,43,Yes,No,No
+601,Egg Curry,Indian Dish,Indian,Varies,150,253,7.2,37.0,6.8,6.0,6.0,31,319,135,2.6,12.0,0,0.0,69,No,No,No
+577,Fafda,Indian Dish,Indian,Varies,150,365,7.2,45.0,6.8,0.0,6.0,315,505,195,0.8,12.0,0,0.0,45,Yes,No,No
+599,Fish Curry,Indian Dish,Indian,Varies,150,239,4.4,31.0,3.6,3.0,3.6,13,297,125,1.4,4.0,0,0.0,67,No,No,No
+622,Gatte Ki Sabzi,Indian Dish,Indian,Varies,150,120,3.0,20.0,2.0,0.0,2.4,220,550,60,2.6,0.0,0,0.0,60,Yes,No,No
+554,Gobi Paratha,Indian Dish,Indian,Varies,150,204,8.6,56.0,8.4,3.0,0.0,108,252,80,3.8,0.0,0,0.0,52,Yes,No,No
+632,Gulab Jamun,Indian Dish,Indian,Varies,150,204,8.6,56.0,8.4,3.0,2.4,328,232,120,1.4,0.0,0,0.0,42,Yes,No,No
+625,Handvo,Indian Dish,Indian,Varies,150,141,7.2,29.0,6.8,4.5,6.0,247,133,75,4.4,12.0,0,0.0,63,Yes,No,No
+605,Hyderabadi Biryani,Indian Dish,Indian,Varies,150,281,12.8,49.0,13.2,4.5,3.6,67,363,155,0.8,12.0,0,0.0,43,Yes,No,No
+545,Idli,Indian Dish,Indian,Varies,150,141,7.2,29.0,6.8,4.5,3.6,27,153,35,2.6,12.0,0,0.0,43,Yes,No,Yes
+631,Jalebi,Indian Dish,Indian,Varies,150,197,7.2,53.0,6.8,1.5,1.2,319,221,115,0.8,12.0,0,0.0,41,Yes,No,No
+563,Jeera Rice,Indian Dish,Indian,Varies,150,267,10.0,43.0,10.0,1.5,3.6,189,351,125,0.8,4.0,0,0.0,61,Yes,No,Yes
+613,Kadala Curry,Indian Dish,Indian,Varies,150,337,12.8,33.0,13.2,1.5,6.0,139,451,195,1.4,12.0,0,0.0,51,Yes,No,No
+570,Kadhi Chawal,Indian Dish,Indian,Varies,150,316,8.6,24.0,8.4,4.5,4.8,252,428,160,0.8,0.0,0,0.0,68,Yes,No,No
+544,Kanda Poha,Indian Dish,Indian,Varies,150,134,5.8,26.0,5.2,3.0,2.4,18,142,30,2.0,8.0,0,0.0,42,Yes,No,No
+604,Keema,Indian Dish,Indian,Varies,150,274,11.4,46.0,11.6,3.0,2.4,58,352,150,4.4,8.0,0,0.0,42,No,No,No
+576,Khandvi,Indian Dish,Indian,Varies,150,358,5.8,42.0,5.2,6.0,4.8,306,494,190,4.4,8.0,0,0.0,44,Yes,No,No
+635,Kheer,Indian Dish,Indian,Varies,150,225,12.8,25.0,13.2,0.0,6.0,355,265,135,3.2,12.0,0,0.0,45,Yes,No,No
+562,Kulcha,Indian Dish,Indian,Varies,150,260,8.6,40.0,8.4,0.0,2.4,180,340,120,4.4,0.0,0,0.0,60,Yes,No,No
+623,Laal Maas,Indian Dish,Indian,Varies,150,127,4.4,23.0,3.6,1.5,3.6,229,561,65,3.2,4.0,0,0.0,61,Yes,No,No
+566,Lemon Rice,Indian Dish,Indian,Varies,150,288,3.0,52.0,2.0,6.0,0.0,216,384,140,2.6,0.0,0,0.0,64,Yes,No,Yes
+620,Litti Chokha,Indian Dish,Indian,Varies,150,386,11.4,54.0,11.6,4.5,0.0,202,528,50,1.4,8.0,0,0.0,58,Yes,No,No
+619,Makki Ki Roti,Indian Dish,Indian,Varies,150,379,10.0,51.0,10.0,3.0,6.0,193,517,45,0.8,4.0,0,0.0,57,Yes,No,No
+589,Malai Kofta,Indian Dish,Indian,Varies,150,169,12.8,41.0,13.2,3.0,6.0,423,187,75,3.8,12.0,0,0.0,57,Yes,No,No
+548,Masala Dosa,Indian Dish,Indian,Varies,150,162,11.4,38.0,11.6,1.5,0.0,54,186,50,4.4,8.0,0,0.0,46,Yes,No,Yes
+588,Matar Paneer,Indian Dish,Indian,Varies,150,162,11.4,38.0,11.6,1.5,4.8,414,176,70,3.2,8.0,0,0.0,56,Yes,No,No
+546,Medu Vada,Indian Dish,Indian,Varies,150,148,8.6,32.0,8.4,6.0,4.8,36,164,40,3.2,0.0,0,0.0,44,Yes,No,No
+573,Misal Pav,Indian Dish,Indian,Varies,150,337,12.8,33.0,13.2,1.5,1.2,279,461,175,2.6,12.0,0,0.0,41,Yes,No,No
+557,Missi Roti,Indian Dish,Indian,Varies,150,225,12.8,25.0,13.2,0.0,3.6,135,285,95,1.4,12.0,0,0.0,55,Yes,No,No
+594,Mix Veg Curry,Indian Dish,Indian,Varies,150,204,8.6,56.0,8.4,3.0,4.8,468,242,100,2.6,0.0,0,0.0,62,Yes,No,No
+639,Modak,Indian Dish,Indian,Varies,150,253,7.2,37.0,6.8,6.0,3.6,391,309,155,1.4,12.0,0,0.0,49,Yes,No,No
+627,Muthiya,Indian Dish,Indian,Varies,150,155,10.0,35.0,10.0,0.0,1.2,265,155,85,1.4,4.0,0,0.0,65,Yes,No,No
+602,Mutton Curry,Indian Dish,Indian,Varies,150,260,8.6,40.0,8.4,0.0,0.0,40,330,140,3.2,0.0,0,0.0,40,No,No,No
+560,Naan,Indian Dish,Indian,Varies,150,246,5.8,34.0,5.2,4.5,0.0,162,318,110,3.2,8.0,0,0.0,58,Yes,No,No
+614,Neer Dosa,Indian Dish,Indian,Varies,150,344,3.0,36.0,2.0,3.0,0.0,148,462,20,2.0,0.0,0,0.0,52,Yes,No,Yes
+629,Pakora,Indian Dish,Indian,Varies,150,176,3.0,44.0,2.0,4.5,4.8,292,188,100,3.2,0.0,0,0.0,68,Yes,No,No
+585,Palak Paneer,Indian Dish,Indian,Varies,150,141,7.2,29.0,6.8,4.5,1.2,387,143,55,1.4,12.0,0,0.0,53,Yes,No,No
+586,Paneer Butter Masala,Indian Dish,Indian,Varies,150,148,8.6,32.0,8.4,6.0,2.4,396,154,60,2.0,0.0,0,0.0,54,Yes,No,No
+555,Paneer Paratha,Indian Dish,Indian,Varies,150,211,10.0,59.0,10.0,4.5,1.2,117,263,85,4.4,4.0,0,0.0,53,Yes,No,No
+626,Patra,Indian Dish,Indian,Varies,150,148,8.6,32.0,8.4,6.0,0.0,256,144,80,0.8,0.0,0,0.0,64,Yes,No,No
+572,Pav Bhaji,Indian Dish,Indian,Varies,150,330,11.4,30.0,11.6,0.0,0.0,270,450,170,2.0,8.0,0,0.0,40,Yes,No,No
+636,Payasam,Indian Dish,Indian,Varies,150,232,3.0,28.0,2.0,1.5,0.0,364,276,140,3.8,0.0,0,0.0,46,Yes,No,Yes
+559,Phulka,Indian Dish,Indian,Varies,150,239,4.4,31.0,3.6,3.0,6.0,153,307,105,2.6,4.0,0,0.0,57,Yes,No,No
+547,Plain Dosa,Indian Dish,Indian,Varies,150,155,10.0,35.0,10.0,0.0,6.0,45,175,45,3.8,4.0,0,0.0,45,Yes,No,Yes
+610,Poriyal,Indian Dish,Indian,Varies,150,316,8.6,24.0,8.4,4.5,2.4,112,418,180,3.8,0.0,0,0.0,48,Yes,No,No
+600,Prawn Curry,Indian Dish,Indian,Varies,150,246,5.8,34.0,5.2,4.5,4.8,22,308,130,2.0,8.0,0,0.0,68,No,No,No
+579,Puran Poli,Indian Dish,Indian,Varies,150,379,10.0,51.0,10.0,3.0,1.2,333,527,25,2.0,4.0,0,0.0,47,Yes,No,No
+612,Puttu,Indian Dish,Indian,Varies,150,330,11.4,30.0,11.6,0.0,4.8,130,440,190,0.8,8.0,0,0.0,50,Yes,No,Yes
+617,Ragi Mudde,Indian Dish,Indian,Varies,150,365,7.2,45.0,6.8,0.0,3.6,175,495,35,3.8,12.0,0,0.0,55,Yes,No,Yes
+568,Rajma Chawal,Indian Dish,Indian,Varies,150,302,5.8,58.0,5.2,1.5,2.4,234,406,150,3.8,8.0,0,0.0,66,Yes,No,No
+608,Rasam,Indian Dish,Indian,Varies,150,302,5.8,58.0,5.2,1.5,0.0,94,396,170,2.6,8.0,0,0.0,46,Yes,No,Yes
+633,Rasgulla,Indian Dish,Indian,Varies,150,211,10.0,59.0,10.0,4.5,3.6,337,243,125,2.0,4.0,0,0.0,43,Yes,No,No
+634,Rasmalai,Indian Dish,Indian,Varies,150,218,11.4,22.0,11.6,6.0,4.8,346,254,130,2.6,8.0,0,0.0,44,Yes,No,No
+549,Rava Dosa,Indian Dish,Indian,Varies,150,169,12.8,41.0,13.2,3.0,1.2,63,197,55,0.8,12.0,0,0.0,47,Yes,No,Yes
+603,Rogan Josh,Indian Dish,Indian,Varies,150,267,10.0,43.0,10.0,1.5,1.2,49,341,145,3.8,4.0,0,0.0,41,No,No,No
+552,Sabudana Khichdi,Indian Dish,Indian,Varies,150,190,5.8,50.0,5.2,0.0,4.8,90,230,70,2.6,8.0,0,0.0,50,Yes,No,Yes
+607,Sambar,Indian Dish,Indian,Varies,150,295,4.4,55.0,3.6,0.0,6.0,85,385,165,2.0,4.0,0,0.0,45,Yes,No,Yes
+618,Sarson Ka Saag,Indian Dish,Indian,Varies,150,372,8.6,48.0,8.4,1.5,4.8,184,506,40,4.4,0.0,0,0.0,56,Yes,No,No
+578,Sev Usal,Indian Dish,Indian,Varies,150,372,8.6,48.0,8.4,1.5,0.0,324,516,20,1.4,0.0,0,0.0,46,Yes,No,No
+587,Shahi Paneer,Indian Dish,Indian,Varies,150,155,10.0,35.0,10.0,0.0,3.6,405,165,65,2.6,4.0,0,0.0,55,Yes,No,No
+640,Sheera,Indian Dish,Indian,Varies,150,260,8.6,40.0,8.4,0.0,4.8,400,320,160,2.0,0.0,0,0.0,50,Yes,No,No
+637,Shrikhand,Indian Dish,Indian,Varies,150,239,4.4,31.0,3.6,3.0,1.2,373,287,145,4.4,4.0,0,0.0,47,Yes,No,No
+580,Thalipeeth,Indian Dish,Indian,Varies,150,386,11.4,54.0,11.6,4.5,2.4,342,538,30,2.6,8.0,0,0.0,48,Yes,No,No
+556,Thepla,Indian Dish,Indian,Varies,150,218,11.4,22.0,11.6,6.0,2.4,126,274,90,0.8,8.0,0,0.0,54,Yes,No,No
+624,Undhiyu,Indian Dish,Indian,Varies,150,134,5.8,26.0,5.2,3.0,4.8,238,122,70,3.8,8.0,0,0.0,62,Yes,No,No
+551,Upma,Indian Dish,Indian,Varies,150,183,4.4,47.0,3.6,6.0,3.6,81,219,65,2.0,4.0,0,0.0,49,Yes,No,No
+550,Uttapam,Indian Dish,Indian,Varies,150,176,3.0,44.0,2.0,4.5,2.4,72,208,60,1.4,0.0,0,0.0,48,Yes,No,Yes
+574,Vada Pav,Indian Dish,Indian,Varies,150,344,3.0,36.0,2.0,3.0,2.4,288,472,180,3.2,0.0,0,0.0,42,Yes,No,No
+606,Veg Biryani,Indian Dish,Indian,Varies,150,288,3.0,52.0,2.0,6.0,4.8,76,374,160,1.4,0.0,0,0.0,44,Yes,No,No
+564,Veg Pulao,Indian Dish,Indian,Varies,150,274,11.4,46.0,11.6,3.0,4.8,198,362,130,1.4,8.0,0,0.0,62,Yes,No,No
+593,Vegetable Korma,Indian Dish,Indian,Varies,150,197,7.2,53.0,6.8,1.5,3.6,459,231,95,2.0,12.0,0,0.0,61,Yes,No,No
+581,Zunka Bhakri,Indian Dish,Indian,Varies,150,393,12.8,57.0,13.2,6.0,3.6,351,549,35,3.2,12.0,0,0.0,49,Yes,No,No
+416,Anchovy,Meat/Fish/Egg,International/Indian,Lunch/Dinner,100,235,22.5,1.2,2.0,0.0,0.2,0,505,65,4.0,0.0,20,1.7,0,No,No,Yes
+392,Bacon,Meat/Fish/Egg,International/Indian,Lunch/Dinner,100,279,14.1,1.2,7.4,0.0,0.2,168,495,73,4.0,0.0,20,1.7,0,No,No,Yes
+388,Beef Liver,Meat/Fish/Egg,International/Indian,Lunch/Dinner,100,243,26.7,1.2,16.4,0.0,0.2,136,435,61,1.2,2.2,20,2.5,0,No,No,Yes
+387,Beef Mince,Meat/Fish/Egg,International/Indian,Lunch/Dinner,100,234,24.6,0.0,14.6,0.0,0.2,128,420,58,0.5,1.1,20,2.1,0,No,No,Yes
+386,Beef Steak,Meat/Fish/Egg,International/Indian,Lunch/Dinner,100,225,22.5,3.6,12.8,0.0,0.2,120,405,55,5.4,0.0,20,1.7,0,No,No,Yes
+400,Boiled Egg,Meat/Fish/Egg,International/Indian,Lunch/Dinner,100,91,30.9,1.2,5.6,0.0,0.2,52,265,17,4.0,2.2,20,2.5,0,No,No,Yes
+428,Canned Tuna,Meat/Fish/Egg,International/Indian,Lunch/Dinner,100,343,26.7,1.2,7.4,0.0,0.2,96,335,21,1.2,0.0,20,1.7,0,No,No,Yes
+410,Catla,Meat/Fish/Egg,International/Indian,Lunch/Dinner,100,181,30.9,3.6,7.4,0.0,0.2,132,415,47,5.4,0.0,20,1.7,0,No,No,Yes
+372,Chicken Breast,Meat/Fish/Egg,International/Indian,Lunch/Dinner,100,99,14.1,1.2,3.8,0.0,0.2,8,195,13,1.2,1.1,20,0.9,0,No,No,Yes
+375,Chicken Liver,Meat/Fish/Egg,International/Indian,Lunch/Dinner,100,126,20.4,0.0,9.2,0.0,0.2,32,240,22,3.3,1.1,20,2.1,0,No,No,Yes
+436,Chicken Nuggets,Meat/Fish/Egg,International/Indian,Lunch/Dinner,100,155,22.5,1.2,5.6,0.0,0.2,160,455,45,1.2,2.2,20,2.5,0,No,No,Yes
+433,Chicken Salami,Meat/Fish/Egg,International/Indian,Lunch/Dinner,100,128,16.2,2.4,16.4,0.0,0.2,136,410,36,4.7,2.2,20,1.3,0,No,No,Yes
+431,Chicken Sausage,Meat/Fish/Egg,International/Indian,Lunch/Dinner,100,110,12.0,0.0,12.8,0.0,0.2,120,380,30,3.3,0.0,20,0.5,0,No,No,Yes
+373,Chicken Thigh,Meat/Fish/Egg,International/Indian,Lunch/Dinner,100,108,16.2,2.4,5.6,0.0,0.2,16,210,16,1.9,2.2,20,1.3,0,No,No,Yes
+374,Chicken Wings,Meat/Fish/Egg,International/Indian,Lunch/Dinner,100,117,18.3,3.6,7.4,0.0,0.2,24,225,19,2.6,0.0,20,1.7,0,No,No,Yes
+424,Clams,Meat/Fish/Egg,International/Indian,Lunch/Dinner,100,307,18.3,1.2,16.4,0.0,0.2,64,275,89,4.0,2.2,20,2.5,0,No,No,Yes
+415,Cod,Meat/Fish/Egg,International/Indian,Lunch/Dinner,100,226,20.4,0.0,16.4,0.0,0.2,172,490,62,3.3,2.2,20,1.3,0,No,No,Yes
+419,Crab,Meat/Fish/Egg,International/Indian,Lunch/Dinner,100,262,28.8,0.0,7.4,0.0,0.2,24,200,74,0.5,0.0,20,0.5,0,No,No,Yes
+404,Duck Egg,Meat/Fish/Egg,International/Indian,Lunch/Dinner,100,127,18.3,1.2,12.8,0.0,0.2,84,325,29,1.2,0.0,20,1.7,0,No,No,Yes
+379,Duck Meat,Meat/Fish/Egg,International/Indian,Lunch/Dinner,100,162,28.8,0.0,16.4,0.0,0.2,64,300,34,0.5,2.2,20,1.3,0,No,No,Yes
+397,Egg,Meat/Fish/Egg,International/Indian,Lunch/Dinner,100,324,24.6,2.4,16.4,0.0,0.2,28,220,88,1.9,2.2,20,1.3,0,No,No,Yes
+398,Egg White,Meat/Fish/Egg,International/Indian,Lunch/Dinner,100,333,26.7,3.6,2.0,0.0,0.2,36,235,11,2.6,0.0,20,1.7,0,No,No,Yes
+399,Egg Yolk,Meat/Fish/Egg,International/Indian,Lunch/Dinner,100,342,28.8,0.0,3.8,0.0,0.2,44,250,14,3.3,1.1,20,2.1,0,No,No,Yes
+395,Emu Meat,Meat/Fish/Egg,International/Indian,Lunch/Dinner,100,306,20.4,0.0,12.8,0.0,0.2,12,190,82,0.5,0.0,20,0.5,0,No,No,Yes
+430,Fish Fingers,Meat/Fish/Egg,International/Indian,Lunch/Dinner,100,101,30.9,3.6,11.0,0.0,0.2,112,365,27,2.6,2.2,20,2.5,0,No,No,Yes
+427,Fish Roe,Meat/Fish/Egg,International/Indian,Lunch/Dinner,100,334,24.6,0.0,5.6,0.0,0.2,88,320,18,0.5,2.2,20,1.3,0,No,No,Yes
+383,Goat Liver,Meat/Fish/Egg,International/Indian,Lunch/Dinner,100,198,16.2,0.0,7.4,0.0,0.2,96,360,46,3.3,0.0,20,0.5,0,No,No,Yes
+381,Goose,Meat/Fish/Egg,International/Indian,Lunch/Dinner,100,180,12.0,2.4,3.8,0.0,0.2,80,330,40,1.9,1.1,20,2.1,0,No,No,Yes
+391,Ham,Meat/Fish/Egg,International/Indian,Lunch/Dinner,100,270,12.0,0.0,5.6,0.0,0.2,160,480,70,3.3,2.2,20,1.3,0,No,No,Yes
+411,Hilsa,Meat/Fish/Egg,International/Indian,Lunch/Dinner,100,190,12.0,0.0,9.2,0.0,0.2,140,430,50,0.5,1.1,20,2.1,0,No,No,Yes
+413,King Fish,Meat/Fish/Egg,International/Indian,Lunch/Dinner,100,208,16.2,2.4,12.8,0.0,0.2,156,460,56,1.9,0.0,20,0.5,0,No,No,Yes
+384,Lamb Chops,Meat/Fish/Egg,International/Indian,Lunch/Dinner,100,207,18.3,1.2,9.2,0.0,0.2,104,375,49,4.0,1.1,20,0.9,0,No,No,Yes
+385,Lamb Mince,Meat/Fish/Egg,International/Indian,Lunch/Dinner,100,216,20.4,2.4,11.0,0.0,0.2,112,390,52,4.7,2.2,20,1.3,0,No,No,Yes
+420,Lobster,Meat/Fish/Egg,International/Indian,Lunch/Dinner,100,271,30.9,1.2,9.2,0.0,0.2,32,215,77,1.2,1.1,20,0.9,0,No,No,Yes
+408,Mackerel,Meat/Fish/Egg,International/Indian,Lunch/Dinner,100,163,26.7,1.2,3.8,0.0,0.2,116,385,41,4.0,1.1,20,0.9,0,No,No,Yes
+435,Meatballs,Meat/Fish/Egg,International/Indian,Lunch/Dinner,100,146,20.4,0.0,3.8,0.0,0.2,152,440,42,0.5,1.1,20,2.1,0,No,No,Yes
+423,Mussels,Meat/Fish/Egg,International/Indian,Lunch/Dinner,100,298,16.2,0.0,14.6,0.0,0.2,56,260,86,3.3,1.1,20,2.1,0,No,No,Yes
+382,Mutton,Meat/Fish/Egg,International/Indian,Lunch/Dinner,100,189,14.1,3.6,5.6,0.0,0.2,88,345,43,2.6,2.2,20,2.5,0,No,No,Yes
+422,Octopus,Meat/Fish/Egg,International/Indian,Lunch/Dinner,100,289,14.1,3.6,12.8,0.0,0.2,48,245,83,2.6,0.0,20,1.7,0,No,No,Yes
+402,Omelette,Meat/Fish/Egg,International/Indian,Lunch/Dinner,100,109,14.1,3.6,9.2,0.0,0.2,68,295,23,5.4,1.1,20,0.9,0,No,No,Yes
+396,Ostrich Meat,Meat/Fish/Egg,International/Indian,Lunch/Dinner,100,315,22.5,1.2,14.6,0.0,0.2,20,205,85,1.2,1.1,20,0.9,0,No,No,Yes
+425,Oysters,Meat/Fish/Egg,International/Indian,Lunch/Dinner,100,316,20.4,2.4,2.0,0.0,0.2,72,290,12,4.7,0.0,20,0.5,0,No,No,Yes
+434,Pepperoni,Meat/Fish/Egg,International/Indian,Lunch/Dinner,100,137,18.3,3.6,2.0,0.0,0.2,144,425,39,5.4,0.0,20,1.7,0,No,No,Yes
+412,Pomfret,Meat/Fish/Egg,International/Indian,Lunch/Dinner,100,199,14.1,1.2,11.0,0.0,0.2,148,445,53,1.2,2.2,20,2.5,0,No,No,Yes
+390,Pork Chop,Meat/Fish/Egg,International/Indian,Lunch/Dinner,100,261,30.9,3.6,3.8,0.0,0.2,152,465,67,2.6,1.1,20,0.9,0,No,No,Yes
+389,Pork Loin,Meat/Fish/Egg,International/Indian,Lunch/Dinner,100,252,28.8,2.4,2.0,0.0,0.2,144,450,64,1.9,0.0,20,0.5,0,No,No,Yes
+417,Prawns,Meat/Fish/Egg,International/Indian,Lunch/Dinner,100,244,24.6,2.4,3.8,0.0,0.2,8,520,68,4.7,1.1,20,2.1,0,No,No,Yes
+380,Quail,Meat/Fish/Egg,International/Indian,Lunch/Dinner,100,171,30.9,1.2,2.0,0.0,0.2,72,315,37,1.2,0.0,20,1.7,0,No,No,Yes
+403,Quail Egg,Meat/Fish/Egg,International/Indian,Lunch/Dinner,100,118,16.2,0.0,11.0,0.0,0.2,76,310,26,0.5,2.2,20,1.3,0,No,No,Yes
+393,Rabbit Meat,Meat/Fish/Egg,International/Indian,Lunch/Dinner,100,288,16.2,2.4,9.2,0.0,0.2,176,510,76,4.7,1.1,20,2.1,0,No,No,Yes
+409,Rohu,Meat/Fish/Egg,International/Indian,Lunch/Dinner,100,172,28.8,2.4,5.6,0.0,0.2,124,400,44,4.7,2.2,20,1.3,0,No,No,Yes
+405,Salmon,Meat/Fish/Egg,International/Indian,Lunch/Dinner,100,136,20.4,2.4,14.6,0.0,0.2,92,340,32,1.9,1.1,40,2.1,0,No,No,Yes
+407,Sardine,Meat/Fish/Egg,International/Indian,Lunch/Dinner,100,154,24.6,0.0,2.0,0.0,0.2,108,370,38,3.3,0.0,40,0.5,0,No,No,Yes
+426,Scallops,Meat/Fish/Egg,International/Indian,Lunch/Dinner,100,325,22.5,3.6,3.8,0.0,0.2,80,305,15,5.4,1.1,20,0.9,0,No,No,Yes
+401,Scrambled Egg,Meat/Fish/Egg,International/Indian,Lunch/Dinner,100,100,12.0,2.4,7.4,0.0,0.2,60,280,20,4.7,0.0,20,0.5,0,No,No,Yes
+418,Shrimp,Meat/Fish/Egg,International/Indian,Lunch/Dinner,100,253,26.7,3.6,5.6,0.0,0.2,16,185,71,5.4,2.2,20,2.5,0,No,No,Yes
+429,Smoked Salmon,Meat/Fish/Egg,International/Indian,Lunch/Dinner,100,92,28.8,2.4,9.2,0.0,0.2,104,350,24,1.9,1.1,40,2.1,0,No,No,Yes
+421,Squid,Meat/Fish/Egg,International/Indian,Lunch/Dinner,100,280,12.0,2.4,11.0,0.0,0.2,40,230,80,1.9,2.2,20,1.3,0,No,No,Yes
+414,Tilapia,Meat/Fish/Egg,International/Indian,Lunch/Dinner,100,217,18.3,3.6,14.6,0.0,0.2,164,475,59,2.6,1.1,20,0.9,0,No,No,Yes
+406,Tuna,Meat/Fish/Egg,International/Indian,Lunch/Dinner,100,145,22.5,3.6,16.4,0.0,0.2,100,355,35,2.6,2.2,20,2.5,0,No,No,Yes
+377,Turkey Breast,Meat/Fish/Egg,International/Indian,Lunch/Dinner,100,144,24.6,2.4,12.8,0.0,0.2,48,270,28,4.7,0.0,20,0.5,0,No,No,Yes
+378,Turkey Mince,Meat/Fish/Egg,International/Indian,Lunch/Dinner,100,153,26.7,3.6,14.6,0.0,0.2,56,285,31,5.4,1.1,20,0.9,0,No,No,Yes
+432,Turkey Sausage,Meat/Fish/Egg,International/Indian,Lunch/Dinner,100,119,14.1,1.2,14.6,0.0,0.2,128,395,33,4.0,1.1,20,0.9,0,No,No,Yes
+394,Venison,Meat/Fish/Egg,International/Indian,Lunch/Dinner,100,297,18.3,3.6,11.0,0.0,0.2,4,525,79,5.4,2.2,20,2.5,0,No,No,Yes
+376,Whole Chicken,Meat/Fish/Egg,International/Indian,Lunch/Dinner,100,135,22.5,1.2,11.0,0.0,0.2,40,255,25,4.0,2.2,20,2.5,0,No,No,Yes
+327,Acorns,Nut/Seed,Indian/International,Snack,30,186,5.1,3.0,16.8,2.3,0.0,12,516,20,1.5,0.0,0,0.0,31,Yes,Yes,Yes
+292,Almonds,Nut/Seed,Indian/International,Snack,30,156,5.1,5.0,10.2,2.3,0.6,2,131,25,1.5,0.8,0,0.0,16,Yes,Yes,Yes
+333,Apricot Kernels,Nut/Seed,Indian/International,Snack,30,222,4.0,3.0,12.4,3.6,1.2,24,582,50,0.8,0.0,0,0.0,17,Yes,Yes,Yes
+331,Areca Nut,Nut/Seed,Indian/International,Snack,30,210,9.5,11.0,8.0,1.0,0.0,20,560,40,4.3,0.8,0,0.0,15,Yes,Yes,Yes
+328,Beech Nuts,Nut/Seed,Indian/International,Snack,30,192,6.2,5.0,19.0,3.6,0.6,14,527,25,2.2,0.8,0,0.0,32,Yes,Yes,Yes
+311,Black Sesame,Nut/Seed,Indian/International,Snack,30,270,10.6,7.0,16.8,1.0,0.0,10,340,120,5.0,1.6,0,0.0,15,Yes,Yes,Yes
+300,Brazil Nuts,Nut/Seed,Indian/International,Snack,30,204,6.2,9.0,10.2,6.2,0.6,18,219,65,2.2,0.0,0,0.0,24,Yes,Yes,Yes
+323,Candlenuts,Nut/Seed,Indian/International,Snack,30,162,8.4,7.0,8.0,3.6,0.0,4,472,180,3.6,1.6,0,0.0,27,Yes,Yes,Yes
+293,Cashews,Nut/Seed,Indian/International,Snack,30,162,6.2,7.0,12.4,3.6,1.2,4,142,30,2.2,1.6,0,0.0,17,Yes,Yes,Yes
+332,Charoli,Nut/Seed,Indian/International,Snack,30,216,10.6,13.0,10.2,2.3,0.6,22,571,45,5.0,1.6,0,0.0,16,Yes,Yes,Yes
+302,Chestnuts,Nut/Seed,Indian/International,Snack,30,216,8.4,13.0,14.6,2.3,1.8,22,241,75,3.6,1.6,0,0.0,26,Yes,Yes,Yes
+306,Chia Seeds,Nut/Seed,Indian/International,Snack,30,240,5.1,9.0,23.4,1.0,1.8,0,285,95,1.5,0.0,0,0.0,30,Yes,Yes,Yes
+304,Coconut,Nut/Seed,Indian/International,Snack,30,228,10.6,5.0,19.0,4.9,0.6,26,263,85,5.0,0.8,0,0.0,28,Yes,Yes,Yes
+305,Dried Coconut,Nut/Seed,Indian/International,Snack,30,234,4.0,7.0,21.2,6.2,1.2,28,274,90,0.8,1.6,0,0.0,29,Yes,Yes,Yes
+307,Flax Seeds,Nut/Seed,Indian/International,Snack,30,246,6.2,11.0,8.0,2.3,0.0,2,296,100,2.2,0.8,0,0.0,31,Yes,Yes,Yes
+303,Fox Nuts (Makhana),Nut/Seed,Indian/International,Snack,30,222,9.5,3.0,16.8,3.6,0.0,24,252,80,4.3,0.0,0,0.0,27,Yes,Yes,Yes
+324,Ginkgo Nuts,Nut/Seed,Indian/International,Snack,30,168,9.5,9.0,10.2,4.9,0.6,6,483,185,4.3,0.0,0,0.0,28,Yes,Yes,Yes
+297,Hazelnuts,Nut/Seed,Indian/International,Snack,30,186,10.6,3.0,21.2,2.3,1.2,12,186,50,5.0,0.0,0,0.0,21,Yes,Yes,Yes
+315,Hemp Seeds,Nut/Seed,Indian/International,Snack,30,294,7.3,3.0,8.0,6.2,0.0,18,384,140,2.9,0.0,0,0.0,19,Yes,Yes,Yes
+330,Kola Nuts,Nut/Seed,Indian/International,Snack,30,204,8.4,9.0,23.4,6.2,1.8,18,549,35,3.6,0.0,0,0.0,34,Yes,Yes,Yes
+334,Lotus Kernel,Nut/Seed,Indian/International,Snack,30,228,5.1,5.0,14.6,4.9,1.8,26,593,55,1.5,0.8,0,0.0,18,Yes,Yes,Yes
+318,Lotus Seeds,Nut/Seed,Indian/International,Snack,30,312,10.6,9.0,14.6,3.6,1.8,24,417,155,5.0,0.0,0,0.0,22,Yes,Yes,Yes
+299,Macadamia Nuts,Nut/Seed,Indian/International,Snack,30,198,5.1,7.0,8.0,4.9,0.0,16,208,60,1.5,1.6,0,0.0,23,Yes,Yes,Yes
+314,Melon Seeds,Nut/Seed,Indian/International,Snack,30,288,6.2,13.0,23.4,4.9,1.8,16,373,135,2.2,1.6,0,0.0,18,Yes,Yes,Yes
+321,Mixed Nuts,Nut/Seed,Indian/International,Snack,30,150,6.2,3.0,21.2,1.0,1.2,0,450,170,2.2,0.0,0,0.0,25,Yes,Yes,Yes
+322,Mixed Seeds,Nut/Seed,Indian/International,Snack,30,156,7.3,5.0,23.4,2.3,1.8,2,461,175,2.9,0.8,0,0.0,26,Yes,Yes,Yes
+317,Nigella Seeds,Nut/Seed,Indian/International,Snack,30,306,9.5,7.0,12.4,2.3,1.2,22,406,150,4.3,1.6,0,0.0,21,Yes,Yes,Yes
+296,Peanuts,Nut/Seed,Indian/International,Snack,30,180,9.5,13.0,19.0,1.0,0.6,10,175,45,4.3,1.6,0,0.0,20,Yes,Yes,Yes
+298,Pecans,Nut/Seed,Indian/International,Snack,30,192,4.0,5.0,23.4,3.6,1.8,14,197,55,0.8,0.8,0,0.0,22,Yes,Yes,Yes
+329,Pili Nuts,Nut/Seed,Indian/International,Snack,30,198,7.3,7.0,21.2,4.9,1.2,16,538,30,2.9,1.6,0,0.0,33,Yes,Yes,Yes
+301,Pine Nuts,Nut/Seed,Indian/International,Snack,30,210,7.3,11.0,12.4,1.0,1.2,20,230,70,2.9,0.8,0,0.0,25,Yes,Yes,Yes
+295,Pistachios,Nut/Seed,Indian/International,Snack,30,174,8.4,11.0,16.8,6.2,0.0,8,164,40,3.6,0.8,0,0.0,19,Yes,Yes,Yes
+316,Poppy Seeds,Nut/Seed,Indian/International,Snack,30,300,8.4,5.0,10.2,1.0,0.6,20,395,145,3.6,0.8,0,0.0,20,Yes,Yes,Yes
+308,Pumpkin Seeds,Nut/Seed,Indian/International,Snack,30,252,7.3,13.0,10.2,3.6,0.6,4,307,105,2.9,1.6,0,0.0,32,Yes,Yes,Yes
+335,Roasted Makhana,Nut/Seed,Indian/International,Snack,30,234,6.2,7.0,16.8,6.2,0.0,28,604,60,2.2,1.6,0,0.0,19,Yes,Yes,Yes
+320,Roasted Peanuts,Nut/Seed,Indian/International,Snack,30,324,5.1,13.0,19.0,6.2,0.6,28,439,165,1.5,1.6,0,0.0,24,Yes,Yes,Yes
+326,Sacha Inchi,Nut/Seed,Indian/International,Snack,30,180,4.0,13.0,14.6,1.0,1.8,10,505,195,0.8,1.6,0,0.0,30,Yes,Yes,Yes
+310,Sesame Seeds,Nut/Seed,Indian/International,Snack,30,264,9.5,5.0,14.6,6.2,1.8,8,329,115,4.3,0.8,0,0.0,34,Yes,Yes,Yes
+319,Soy Nuts,Nut/Seed,Indian/International,Snack,30,318,4.0,11.0,16.8,4.9,0.0,26,428,160,0.8,0.8,0,0.0,23,Yes,Yes,Yes
+309,Sunflower Seeds,Nut/Seed,Indian/International,Snack,30,258,8.4,3.0,12.4,4.9,1.2,6,318,110,3.6,0.0,0,0.0,33,Yes,Yes,Yes
+325,Tiger Nuts,Nut/Seed,Indian/International,Snack,30,174,10.6,11.0,12.4,6.2,1.2,8,494,190,5.0,0.8,0,0.0,29,Yes,Yes,Yes
+336,Trail Mix,Nut/Seed,Indian/International,Snack,30,240,7.3,9.0,19.0,1.0,0.6,0,615,65,2.9,0.0,0,0.0,20,Yes,Yes,Yes
+294,Walnuts,Nut/Seed,Indian/International,Snack,30,168,7.3,9.0,14.6,4.9,1.8,6,153,35,2.9,0.0,0,0.0,18,Yes,Yes,Yes
+313,Watermelon Seeds,Nut/Seed,Indian/International,Snack,30,282,5.1,11.0,21.2,3.6,1.2,14,362,130,1.5,0.8,0,0.0,17,Yes,Yes,Yes
+312,White Sesame,Nut/Seed,Indian/International,Snack,30,276,4.0,9.0,19.0,2.3,0.6,12,351,125,0.8,0.0,0,0.0,16,Yes,Yes,Yes
+269,Adzuki Beans,Pulse/Legume,Indian,Lunch/Dinner,100,362,23.2,50.0,0.9,6.0,0.0,28,862,54,5.2,0.0,0,0.0,41,Yes,Yes,Yes
+244,Arhar Dal,Pulse/Legume,Indian,Lunch/Dinner,100,360,20.6,48.0,0.5,11.6,1.0,30,420,70,3.6,1.2,0,0.0,35,Yes,Yes,Yes
+278,Beluga Lentils,Pulse/Legume,Indian,Lunch/Dinner,100,342,25.8,45.0,0.9,11.6,1.0,18,332,94,6.8,1.2,0,0.0,31,Yes,Yes,Yes
+273,Bengal Gram,Pulse/Legume,Indian,Lunch/Dinner,100,307,19.3,35.0,0.9,13.0,0.5,3,947,74,2.8,2.4,0,0.0,26,Yes,Yes,Yes
+253,Black Beans,Pulse/Legume,Indian,Lunch/Dinner,100,333,21.9,41.0,2.1,7.4,1.5,17,573,106,4.4,1.2,0,0.0,44,Yes,Yes,Yes
+251,Black Kidney Beans,Pulse/Legume,Indian,Lunch/Dinner,100,319,19.3,37.0,1.3,13.0,0.5,11,539,98,2.8,2.4,0,0.0,42,Yes,Yes,Yes
+260,Black Soybeans,Pulse/Legume,Indian,Lunch/Dinner,100,292,20.6,30.0,0.9,8.8,1.0,38,692,134,3.6,2.4,0,0.0,31,Yes,Yes,Yes
+265,Black-eyed Peas,Pulse/Legume,Indian,Lunch/Dinner,100,334,18.0,42.0,1.3,8.8,0.0,16,794,38,2.0,2.4,0,0.0,37,Yes,Yes,Yes
+274,Brown Lentils,Pulse/Legume,Indian,Lunch/Dinner,100,314,20.6,37.0,1.3,6.0,1.0,6,264,78,3.6,0.0,0,0.0,27,Yes,Yes,Yes
+258,Butter Beans,Pulse/Legume,Indian,Lunch/Dinner,100,368,18.0,51.0,2.1,6.0,0.0,32,658,126,2.0,0.0,0,0.0,29,Yes,Yes,Yes
+256,Cannellini Beans,Pulse/Legume,Indian,Lunch/Dinner,100,354,25.8,47.0,1.3,11.6,1.0,26,624,118,6.8,1.2,0,0.0,27,Yes,Yes,Yes
+245,Chana Dal,Pulse/Legume,Indian,Lunch/Dinner,100,367,21.9,50.0,0.9,13.0,1.5,33,437,74,4.4,2.4,0,0.0,36,Yes,Yes,Yes
+264,Cowpeas,Pulse/Legume,Indian,Lunch/Dinner,100,327,27.1,40.0,0.9,7.4,1.5,13,777,34,7.6,1.2,0,0.0,36,Yes,Yes,Yes
+261,Dry Green Peas,Pulse/Legume,Indian,Lunch/Dinner,100,306,23.2,34.0,1.7,11.6,0.0,4,726,142,5.2,1.2,0,0.0,33,Yes,Yes,Yes
+270,Fava Beans,Pulse/Legume,Indian,Lunch/Dinner,100,369,24.5,52.0,1.3,7.4,0.5,31,879,58,6.0,1.2,0,0.0,42,Yes,Yes,Yes
+272,Field Beans,Pulse/Legume,Indian,Lunch/Dinner,100,300,18.0,33.0,0.5,11.6,0.0,0,930,70,2.0,1.2,0,0.0,25,Yes,Yes,Yes
+277,French Lentils,Pulse/Legume,Indian,Lunch/Dinner,100,335,24.5,43.0,0.5,10.2,0.5,15,315,90,6.0,0.0,0,0.0,30,Yes,Yes,Yes
+276,Green Lentils,Pulse/Legume,Indian,Lunch/Dinner,100,328,23.2,41.0,2.1,8.8,0.0,12,298,86,5.2,2.4,0,0.0,29,Yes,Yes,Yes
+263,Horse Gram,Pulse/Legume,Indian,Lunch/Dinner,100,320,25.8,38.0,0.5,6.0,1.0,10,760,30,6.8,0.0,0,0.0,35,Yes,Yes,Yes
+271,Hyacinth Beans,Pulse/Legume,Indian,Lunch/Dinner,100,293,27.1,31.0,2.1,10.2,1.5,37,913,66,7.6,0.0,0,0.0,44,Yes,Yes,Yes
+246,Kabuli Chana,Pulse/Legume,Indian,Lunch/Dinner,100,374,23.2,52.0,1.3,6.0,0.0,36,454,78,5.2,0.0,0,0.0,37,Yes,Yes,Yes
+247,Kala Chana,Pulse/Legume,Indian,Lunch/Dinner,100,291,24.5,29.0,1.7,7.4,0.5,39,471,82,6.0,1.2,0,0.0,38,Yes,Yes,Yes
+257,Lima Beans,Pulse/Legume,Indian,Lunch/Dinner,100,361,27.1,49.0,1.7,13.0,1.5,29,641,122,7.6,2.4,0,0.0,28,Yes,Yes,Yes
+266,Lobia,Pulse/Legume,Indian,Lunch/Dinner,100,341,19.3,44.0,1.7,10.2,0.5,19,811,42,2.8,0.0,0,0.0,38,Yes,Yes,Yes
+239,Masoor Dal,Pulse/Legume,Indian,Lunch/Dinner,100,325,24.5,38.0,0.5,13.0,0.5,15,335,50,6.0,2.4,0,0.0,30,Yes,Yes,Yes
+268,Matki,Pulse/Legume,Indian,Lunch/Dinner,100,355,21.9,48.0,0.5,13.0,1.5,25,845,50,4.4,2.4,0,0.0,40,Yes,Yes,Yes
+288,Mixed Beans,Pulse/Legume,Indian,Lunch/Dinner,100,329,19.3,42.0,1.3,10.2,0.5,11,519,138,2.8,0.0,0,0.0,42,Yes,Yes,Yes
+287,Mixed Dal,Pulse/Legume,Indian,Lunch/Dinner,100,322,18.0,40.0,0.9,8.8,0.0,8,502,134,2.0,2.4,0,0.0,41,Yes,Yes,Yes
+289,Mixed Sprouts,Pulse/Legume,Indian,Lunch/Dinner,100,336,20.6,44.0,1.7,11.6,1.0,14,536,142,3.6,1.2,0,0.0,43,Yes,Yes,Yes
+267,Moth Beans,Pulse/Legume,Indian,Lunch/Dinner,100,348,20.6,46.0,2.1,11.6,1.0,22,828,46,3.6,1.2,0,0.0,39,Yes,Yes,Yes
+255,Navy Beans,Pulse/Legume,Indian,Lunch/Dinner,100,347,24.5,45.0,0.9,10.2,0.5,23,607,114,6.0,0.0,0,0.0,26,Yes,Yes,Yes
+254,Pinto Beans,Pulse/Legume,Indian,Lunch/Dinner,100,340,23.2,43.0,0.5,8.8,0.0,20,590,110,5.2,2.4,0,0.0,25,Yes,Yes,Yes
+252,Rajma Chitra,Pulse/Legume,Indian,Lunch/Dinner,100,326,20.6,39.0,1.7,6.0,1.0,14,556,102,3.6,0.0,0,0.0,43,Yes,Yes,Yes
+249,Red Kidney Beans,Pulse/Legume,Indian,Lunch/Dinner,100,305,27.1,33.0,0.5,10.2,1.5,5,505,90,7.6,0.0,0,0.0,40,Yes,Yes,Yes
+275,Red Lentils,Pulse/Legume,Indian,Lunch/Dinner,100,321,21.9,39.0,1.7,7.4,1.5,9,281,82,4.4,1.2,0,0.0,28,Yes,Yes,Yes
+285,Roasted Chana,Pulse/Legume,Indian,Lunch/Dinner,100,308,25.8,36.0,2.1,6.0,1.0,2,468,126,6.8,0.0,0,0.0,39,Yes,Yes,Yes
+286,Sattu,Pulse/Legume,Indian,Lunch/Dinner,100,315,27.1,38.0,0.5,7.4,1.5,5,485,130,7.6,1.2,0,0.0,40,Yes,Yes,Yes
+290,Soy Chunks,Pulse/Legume,Indian,Lunch/Dinner,100,343,21.9,46.0,2.1,13.0,1.5,17,553,146,4.4,2.4,0,0.0,44,Yes,Yes,Yes
+259,Soybeans,Pulse/Legume,Indian,Lunch/Dinner,100,375,19.3,28.0,0.5,7.4,0.5,35,675,130,2.8,1.2,0,0.0,30,Yes,Yes,Yes
+236,Split Green Moong,Pulse/Legume,Indian,Lunch/Dinner,100,304,20.6,32.0,1.3,8.8,1.0,6,284,38,3.6,2.4,0,0.0,27,Yes,Yes,Yes
+279,Split Peas,Pulse/Legume,Indian,Lunch/Dinner,100,349,27.1,47.0,1.3,13.0,1.5,21,349,98,7.6,2.4,0,0.0,32,Yes,Yes,Yes
+241,Split Urad,Pulse/Legume,Indian,Lunch/Dinner,100,339,27.1,42.0,1.3,7.4,1.5,21,369,58,7.6,1.2,0,0.0,32,Yes,Yes,Yes
+281,Sprouted Chana,Pulse/Legume,Indian,Lunch/Dinner,100,363,19.3,51.0,2.1,7.4,0.5,27,383,106,2.8,1.2,0,0.0,34,Yes,Yes,Yes
+284,Sprouted Lentils,Pulse/Legume,Indian,Lunch/Dinner,100,294,23.2,32.0,1.3,11.6,0.0,36,434,118,5.2,1.2,0,0.0,37,Yes,Yes,Yes
+282,Sprouted Matki,Pulse/Legume,Indian,Lunch/Dinner,100,370,20.6,28.0,0.5,8.8,1.0,30,400,110,3.6,2.4,0,0.0,35,Yes,Yes,Yes
+280,Sprouted Moong,Pulse/Legume,Indian,Lunch/Dinner,100,356,18.0,49.0,1.7,6.0,0.0,24,366,102,2.0,0.0,0,0.0,33,Yes,Yes,Yes
+283,Sprouted Moth,Pulse/Legume,Indian,Lunch/Dinner,100,377,21.9,30.0,0.9,10.2,1.5,33,417,114,4.4,0.0,0,0.0,36,Yes,Yes,Yes
+291,Textured Vegetable Protein,Pulse/Legume,Indian,Lunch/Dinner,100,350,23.2,48.0,0.5,6.0,0.0,20,570,30,5.2,0.0,0,0.0,25,Yes,Yes,Yes
+243,Toor Dal,Pulse/Legume,Indian,Lunch/Dinner,100,353,19.3,46.0,2.1,10.2,0.5,27,403,66,2.8,0.0,0,0.0,34,Yes,Yes,Yes
+242,Urad Dal,Pulse/Legume,Indian,Lunch/Dinner,100,346,18.0,44.0,1.7,8.8,0.0,24,386,62,2.0,2.4,0,0.0,33,Yes,Yes,Yes
+248,White Chickpeas,Pulse/Legume,Indian,Lunch/Dinner,100,298,25.8,31.0,2.1,8.8,1.0,2,488,86,6.8,2.4,0,0.0,39,Yes,Yes,Yes
+250,White Kidney Beans,Pulse/Legume,Indian,Lunch/Dinner,100,312,18.0,35.0,0.9,11.6,0.0,8,522,94,2.0,1.2,0,0.0,41,Yes,Yes,Yes
+235,Whole Green Moong,Pulse/Legume,Indian,Lunch/Dinner,100,297,19.3,30.0,0.9,7.4,0.5,3,267,34,2.8,1.2,0,0.0,26,Yes,Yes,Yes
+238,Whole Masoor,Pulse/Legume,Indian,Lunch/Dinner,100,318,23.2,36.0,2.1,11.6,0.0,12,318,46,5.2,1.2,0,0.0,29,Yes,Yes,Yes
+240,Whole Urad,Pulse/Legume,Indian,Lunch/Dinner,100,332,25.8,40.0,0.9,6.0,1.0,18,352,54,6.8,0.0,0,0.0,31,Yes,Yes,Yes
+237,Yellow Moong Dal,Pulse/Legume,Indian,Lunch/Dinner,100,311,21.9,34.0,1.7,10.2,1.5,9,301,42,4.4,0.0,0,0.0,28,Yes,Yes,Yes
+262,Yellow Peas,Pulse/Legume,Indian,Lunch/Dinner,100,313,24.5,36.0,2.1,13.0,0.5,7,743,146,6.0,2.4,0,0.0,34,Yes,Yes,Yes
+163,Acorn Squash,Vegetable,Indian/International,Lunch,100,35,2.5,14.0,0.0,3.8,2.4,82,292,34,0.2,42.0,0,0.0,33,Yes,Yes,Yes
+110,Amaranth Leaves,Vegetable,Indian/International,Lunch,100,50,0.5,13.0,0.6,4.5,5.5,50,285,115,1.1,70.0,0,0.0,15,Yes,Yes,Yes
+123,Artichoke,Vegetable,Indian/International,Lunch,100,45,3.5,9.0,0.0,1.0,6.4,12,532,34,0.2,42.0,0,0.0,28,Yes,Yes,Yes
+153,Arugula,Vegetable,Indian/International,Lunch,100,55,1.0,9.0,0.4,1.0,5.4,42,602,124,2.0,82.0,0,0.0,23,Yes,Yes,Yes
+94,Ash Gourd,Vegetable,Indian/International,Lunch,100,40,3.0,11.0,0.6,1.7,0.7,76,481,67,1.1,86.0,0,0.0,34,Yes,Yes,Yes
+124,Asparagus,Vegetable,Indian/International,Lunch,100,50,0.5,11.0,0.2,1.7,7.7,16,551,37,0.5,46.0,0,0.0,29,Yes,Yes,Yes
+133,Baby Corn,Vegetable,Indian/International,Lunch,100,25,1.5,14.0,0.4,3.8,3.4,52,222,64,0.8,82.0,0,0.0,38,Yes,Yes,Yes
+167,Bamboo Shoots,Vegetable,Indian/International,Lunch,100,55,1.0,7.0,0.0,2.4,7.6,8,368,46,1.4,58.0,0,0.0,37,Yes,Yes,Yes
+166,Bean Sprouts,Vegetable,Indian/International,Lunch,100,50,0.5,5.0,0.6,1.7,6.3,4,349,43,1.1,54.0,0,0.0,36,Yes,Yes,Yes
+86,Beetroot,Vegetable,Indian/International,Lunch,100,70,2.5,10.0,0.6,4.5,6.3,44,329,43,1.1,54.0,0,0.0,26,Yes,Yes,Yes
+92,Bitter Gourd,Vegetable,Indian/International,Lunch,100,30,2.0,7.0,0.2,4.5,6.1,68,443,61,0.5,78.0,0,0.0,32,Yes,Yes,Yes
+125,Bok Choy,Vegetable,Indian/International,Lunch,100,55,1.0,13.0,0.4,2.4,1.0,20,570,40,0.8,50.0,0,0.0,30,Yes,Yes,Yes
+90,Bottle Gourd,Vegetable,Indian/International,Lunch,100,20,1.0,3.0,0.6,3.1,3.5,60,405,55,2.3,70.0,0,0.0,30,Yes,Yes,Yes
+95,Brinjal,Vegetable,Indian/International,Lunch,100,45,3.5,13.0,0.0,2.4,2.0,80,500,70,1.4,10.0,0,0.0,35,Yes,Yes,Yes
+141,Broad Beans,Vegetable,Indian/International,Lunch,100,65,2.0,15.0,0.4,1.0,5.8,84,374,88,0.8,34.0,0,0.0,46,Yes,Yes,Yes
+78,Broccoli,Vegetable,Indian/International,Lunch,100,30,2.0,9.0,0.6,3.1,3.9,12,177,19,1.1,22.0,0,0.0,18,Yes,Yes,Yes
+164,Butternut Squash,Vegetable,Indian/International,Lunch,100,40,3.0,16.0,0.2,4.5,3.7,86,311,37,0.5,46.0,0,0.0,34,Yes,Yes,Yes
+80,Cabbage,Vegetable,Indian/International,Lunch,100,40,3.0,13.0,0.2,4.5,6.5,20,215,25,1.7,30.0,0,0.0,20,Yes,Yes,Yes
+97,Capsicum,Vegetable,Indian/International,Lunch,100,55,1.0,17.0,0.4,3.8,4.6,88,538,76,2.0,18.0,0,0.0,37,Yes,Yes,Yes
+77,Carrot,Vegetable,Indian/International,Lunch,100,25,1.5,7.0,0.4,2.4,2.6,8,158,16,0.8,18.0,0,0.0,17,Yes,Yes,Yes
+79,Cauliflower,Vegetable,Indian/International,Lunch,100,35,2.5,11.0,0.0,3.8,5.2,16,196,22,1.4,26.0,0,0.0,19,Yes,Yes,Yes
+157,Celeriac,Vegetable,Indian/International,Lunch,100,75,3.0,17.0,0.4,3.8,2.6,58,178,16,0.8,18.0,0,0.0,27,Yes,Yes,Yes
+113,Celery,Vegetable,Indian/International,Lunch,100,65,2.0,4.0,0.4,2.4,1.4,62,342,124,2.0,82.0,0,0.0,18,Yes,Yes,Yes
+158,Chayote,Vegetable,Indian/International,Lunch,100,80,3.5,4.0,0.6,4.5,3.9,62,197,19,1.1,22.0,0,0.0,28,Yes,Yes,Yes
+132,Cherry Tomato,Vegetable,Indian/International,Lunch,100,20,1.0,12.0,0.2,3.1,2.1,48,203,61,0.5,78.0,0,0.0,37,Yes,Yes,Yes
+126,Chinese Cabbage,Vegetable,Indian/International,Lunch,100,60,1.5,15.0,0.6,3.1,2.3,24,589,43,1.1,54.0,0,0.0,31,Yes,Yes,Yes
+106,Cluster Beans,Vegetable,Indian/International,Lunch,100,30,2.0,5.0,0.6,1.7,0.3,34,209,103,2.3,54.0,0,0.0,46,Yes,Yes,Yes
+145,Colocasia Leaves,Vegetable,Indian/International,Lunch,100,15,0.5,8.0,0.4,3.8,3.0,10,450,100,2.0,50.0,0,0.0,15,Yes,Yes,Yes
+119,Coriander,Vegetable,Indian/International,Lunch,100,25,1.5,16.0,0.0,2.4,1.2,86,456,22,1.4,26.0,0,0.0,24,Yes,Yes,Yes
+103,Corn,Vegetable,Indian/International,Lunch,100,15,0.5,14.0,0.0,3.8,4.4,22,152,94,1.4,42.0,0,0.0,43,Yes,Yes,Yes
+82,Cucumber,Vegetable,Indian/International,Lunch,100,50,0.5,17.0,0.6,1.7,1.1,28,253,31,2.3,38.0,0,0.0,22,Yes,Yes,Yes
+144,Curry Leaves,Vegetable,Indian/International,Lunch,100,80,3.5,6.0,0.2,3.1,1.7,6,431,97,1.7,46.0,0,0.0,49,Yes,Yes,Yes
+159,Daikon,Vegetable,Indian/International,Lunch,100,15,0.5,6.0,0.0,1.0,5.2,66,216,22,1.4,26.0,0,0.0,29,Yes,Yes,Yes
+121,Dill,Vegetable,Indian/International,Lunch,100,35,2.5,5.0,0.4,3.8,3.8,4,494,28,2.0,34.0,0,0.0,26,Yes,Yes,Yes
+107,Drumstick,Vegetable,Indian/International,Lunch,100,35,2.5,7.0,0.0,2.4,1.6,38,228,106,0.2,58.0,0,0.0,47,Yes,Yes,Yes
+108,Drumstick Leaves,Vegetable,Indian/International,Lunch,100,40,3.0,9.0,0.2,3.1,2.9,42,247,109,0.5,62.0,0,0.0,48,Yes,Yes,Yes
+142,Edamame,Vegetable,Indian/International,Lunch,100,70,2.5,17.0,0.6,1.7,7.1,88,393,91,1.1,38.0,0,0.0,47,Yes,Yes,Yes
+148,Endive,Vegetable,Indian/International,Lunch,100,30,2.0,14.0,0.2,1.7,6.9,22,507,109,0.5,62.0,0,0.0,18,Yes,Yes,Yes
+122,Fennel,Vegetable,Indian/International,Lunch,100,40,3.0,7.0,0.6,4.5,5.1,8,513,31,2.3,38.0,0,0.0,27,Yes,Yes,Yes
+109,Fenugreek Leaves,Vegetable,Indian/International,Lunch,100,45,3.5,11.0,0.4,3.8,4.2,46,266,112,0.8,66.0,0,0.0,49,Yes,Yes,Yes
+105,French Beans,Vegetable,Indian/International,Lunch,100,25,1.5,3.0,0.4,1.0,7.0,30,190,100,2.0,50.0,0,0.0,45,Yes,Yes,Yes
+100,Garlic,Vegetable,Indian/International,Lunch,100,70,2.5,8.0,0.2,1.7,0.5,10,595,85,0.5,30.0,0,0.0,40,Yes,Yes,Yes
+101,Ginger,Vegetable,Indian/International,Lunch,100,75,3.0,10.0,0.4,2.4,1.8,14,614,88,0.8,34.0,0,0.0,41,Yes,Yes,Yes
+131,Green Capsicum,Vegetable,Indian/International,Lunch,100,15,0.5,10.0,0.0,2.4,0.8,44,184,58,0.2,74.0,0,0.0,36,Yes,Yes,Yes
+98,Green Chilli,Vegetable,Indian/International,Lunch,100,60,1.5,4.0,0.6,4.5,5.9,2,557,79,2.3,22.0,0,0.0,38,Yes,Yes,Yes
+172,Green Garlic,Vegetable,Indian/International,Lunch,100,80,3.5,17.0,0.2,1.7,6.1,28,463,61,0.5,78.0,0,0.0,42,Yes,Yes,Yes
+104,Green Peas,Vegetable,Indian/International,Lunch,100,20,1.0,16.0,0.2,4.5,5.7,26,171,97,1.7,46.0,0,0.0,44,Yes,Yes,Yes
+156,Horseradish,Vegetable,Indian/International,Lunch,100,70,2.5,15.0,0.2,3.1,1.3,54,159,13,0.5,14.0,0,0.0,26,Yes,Yes,Yes
+152,Iceberg Lettuce,Vegetable,Indian/International,Lunch,100,50,0.5,7.0,0.2,4.5,4.1,38,583,121,1.7,78.0,0,0.0,22,Yes,Yes,Yes
+139,Ivy Gourd,Vegetable,Indian/International,Lunch,100,55,1.0,11.0,0.0,3.8,3.2,76,336,82,0.2,26.0,0,0.0,44,Yes,Yes,Yes
+115,Kale,Vegetable,Indian/International,Lunch,100,75,3.0,8.0,0.0,3.8,4.0,70,380,10,0.2,10.0,0,0.0,20,Yes,Yes,Yes
+154,Kohlrabi,Vegetable,Indian/International,Lunch,100,60,1.5,11.0,0.6,1.7,6.7,46,121,127,2.3,86.0,0,0.0,24,Yes,Yes,Yes
+116,Leek,Vegetable,Indian/International,Lunch,100,80,3.5,10.0,0.2,4.5,5.3,74,399,13,0.5,14.0,0,0.0,21,Yes,Yes,Yes
+112,Lettuce,Vegetable,Indian/International,Lunch,100,60,1.5,17.0,0.2,1.7,0.1,58,323,121,1.7,78.0,0,0.0,17,Yes,Yes,Yes
+134,Lotus Stem,Vegetable,Indian/International,Lunch,100,30,2.0,16.0,0.6,4.5,4.7,56,241,67,1.1,86.0,0,0.0,39,Yes,Yes,Yes
+146,Malabar Spinach,Vegetable,Indian/International,Lunch,100,20,1.0,10.0,0.6,4.5,4.3,14,469,103,2.3,54.0,0,0.0,16,Yes,Yes,Yes
+120,Mint,Vegetable,Indian/International,Lunch,100,30,2.0,3.0,0.2,3.1,2.5,0,475,25,1.7,30.0,0,0.0,25,Yes,Yes,Yes
+102,Mushroom,Vegetable,Indian/International,Lunch,100,80,3.5,12.0,0.6,3.1,3.1,18,133,91,1.1,38.0,0,0.0,42,Yes,Yes,Yes
+111,Mustard Greens,Vegetable,Indian/International,Lunch,100,55,1.0,15.0,0.0,1.0,6.8,54,304,118,1.4,74.0,0,0.0,16,Yes,Yes,Yes
+169,Napa Cabbage,Vegetable,Indian/International,Lunch,100,65,2.0,11.0,0.4,3.8,2.2,16,406,52,2.0,66.0,0,0.0,39,Yes,Yes,Yes
+96,Okra,Vegetable,Indian/International,Lunch,100,50,0.5,15.0,0.2,3.1,3.3,84,519,73,1.7,14.0,0,0.0,36,Yes,Yes,Yes
+83,Onion,Vegetable,Indian/International,Lunch,100,55,1.0,4.0,0.0,2.4,2.4,32,272,34,0.2,42.0,0,0.0,23,Yes,Yes,Yes
+118,Parsley,Vegetable,Indian/International,Lunch,100,20,1.0,14.0,0.6,1.7,7.9,82,437,19,1.1,22.0,0,0.0,23,Yes,Yes,Yes
+155,Parsnip,Vegetable,Indian/International,Lunch,100,65,2.0,13.0,0.0,2.4,0.0,50,140,10,0.2,10.0,0,0.0,25,Yes,Yes,Yes
+162,Pattypan Squash,Vegetable,Indian/International,Lunch,100,30,2.0,12.0,0.6,3.1,1.1,78,273,31,2.3,38.0,0,0.0,32,Yes,Yes,Yes
+174,Pearl Onion,Vegetable,Indian/International,Lunch,100,20,1.0,6.0,0.6,3.1,0.7,36,501,67,1.1,86.0,0,0.0,44,Yes,Yes,Yes
+140,Pointed Gourd,Vegetable,Indian/International,Lunch,100,60,1.5,13.0,0.2,4.5,4.5,80,355,85,0.5,30.0,0,0.0,45,Yes,Yes,Yes
+84,Potato,Vegetable,Indian/International,Lunch,100,60,1.5,6.0,0.2,3.1,3.7,36,291,37,0.5,46.0,0,0.0,24,Yes,Yes,Yes
+89,Pumpkin,Vegetable,Indian/International,Lunch,100,15,0.5,16.0,0.4,2.4,2.2,56,386,52,2.0,66.0,0,0.0,29,Yes,Yes,Yes
+128,Purple Carrot,Vegetable,Indian/International,Lunch,100,70,2.5,4.0,0.2,4.5,4.9,32,127,49,1.7,62.0,0,0.0,33,Yes,Yes,Yes
+170,Purple Sweet Potato,Vegetable,Indian/International,Lunch,100,70,2.5,13.0,0.6,4.5,3.5,20,425,55,2.3,70.0,0,0.0,40,Yes,Yes,Yes
+149,Radicchio,Vegetable,Indian/International,Lunch,100,35,2.5,16.0,0.4,2.4,0.2,26,526,112,0.8,66.0,0,0.0,19,Yes,Yes,Yes
+87,Radish,Vegetable,Indian/International,Lunch,100,75,3.0,12.0,0.0,1.0,7.6,48,348,46,1.4,58.0,0,0.0,27,Yes,Yes,Yes
+137,Raw Banana,Vegetable,Indian/International,Lunch,100,45,3.5,7.0,0.4,2.4,0.6,68,298,76,2.0,18.0,0,0.0,42,Yes,Yes,Yes
+138,Raw Papaya,Vegetable,Indian/International,Lunch,100,50,0.5,9.0,0.6,3.1,1.9,72,317,79,2.3,22.0,0,0.0,43,Yes,Yes,Yes
+127,Red Cabbage,Vegetable,Indian/International,Lunch,100,65,2.0,17.0,0.0,3.8,3.6,28,608,46,1.4,58.0,0,0.0,32,Yes,Yes,Yes
+130,Red Capsicum,Vegetable,Indian/International,Lunch,100,80,3.5,8.0,0.6,1.7,7.5,40,165,55,2.3,70.0,0,0.0,35,Yes,Yes,Yes
+99,Red Chilli,Vegetable,Indian/International,Lunch,100,65,2.0,6.0,0.0,1.0,7.2,6,576,82,0.2,26.0,0,0.0,39,Yes,Yes,Yes
+91,Ridge Gourd,Vegetable,Indian/International,Lunch,100,25,1.5,5.0,0.0,3.8,4.8,64,424,58,0.2,74.0,0,0.0,31,Yes,Yes,Yes
+151,Romaine Lettuce,Vegetable,Indian/International,Lunch,100,45,3.5,5.0,0.0,3.8,2.8,34,564,118,1.4,74.0,0,0.0,21,Yes,Yes,Yes
+161,Romanesco,Vegetable,Indian/International,Lunch,100,25,1.5,10.0,0.4,2.4,7.8,74,254,28,2.0,34.0,0,0.0,31,Yes,Yes,Yes
+160,Rutabaga,Vegetable,Indian/International,Lunch,100,20,1.0,8.0,0.2,1.7,6.5,70,235,25,1.7,30.0,0,0.0,30,Yes,Yes,Yes
+168,Seaweed,Vegetable,Indian/International,Lunch,100,60,1.5,9.0,0.2,3.1,0.9,12,387,49,1.7,62.0,0,0.0,38,Yes,Yes,Yes
+173,Shallots,Vegetable,Indian/International,Lunch,100,15,0.5,4.0,0.4,2.4,7.4,32,482,64,0.8,82.0,0,0.0,43,Yes,Yes,Yes
+93,Snake Gourd,Vegetable,Indian/International,Lunch,100,35,2.5,9.0,0.4,1.0,7.4,72,462,64,0.8,82.0,0,0.0,33,Yes,Yes,Yes
+147,Sorrel Leaves,Vegetable,Indian/International,Lunch,100,25,1.5,12.0,0.0,1.0,5.6,18,488,106,0.2,58.0,0,0.0,17,Yes,Yes,Yes
+165,Spaghetti Squash,Vegetable,Indian/International,Lunch,100,45,3.5,3.0,0.4,1.0,5.0,0,330,40,0.8,50.0,0,0.0,35,Yes,Yes,Yes
+76,Spinach,Vegetable,Indian/International,Lunch,100,20,1.0,5.0,0.2,1.7,1.3,4,139,13,0.5,14.0,0,0.0,16,Yes,Yes,Yes
+117,Spring Onion,Vegetable,Indian/International,Lunch,100,15,0.5,12.0,0.4,1.0,6.6,78,418,16,0.8,18.0,0,0.0,22,Yes,Yes,Yes
+85,Sweet Potato,Vegetable,Indian/International,Lunch,100,65,2.0,8.0,0.4,3.8,5.0,40,310,40,0.8,50.0,0,0.0,25,Yes,Yes,Yes
+150,Swiss Chard,Vegetable,Indian/International,Lunch,100,40,3.0,3.0,0.6,3.1,1.5,30,545,115,1.1,70.0,0,0.0,20,Yes,Yes,Yes
+135,Taro Root,Vegetable,Indian/International,Lunch,100,35,2.5,3.0,0.0,1.0,6.0,60,260,70,1.4,10.0,0,0.0,40,Yes,Yes,Yes
+81,Tomato,Vegetable,Indian/International,Lunch,100,45,3.5,15.0,0.4,1.0,7.8,24,234,28,2.0,34.0,0,0.0,21,Yes,Yes,Yes
+175,Turmeric Root,Vegetable,Indian/International,Lunch,100,25,1.5,8.0,0.0,3.8,2.0,40,520,70,1.4,10.0,0,0.0,45,Yes,Yes,Yes
+88,Turnip,Vegetable,Indian/International,Lunch,100,80,3.5,14.0,0.2,1.7,0.9,52,367,49,1.7,62.0,0,0.0,28,Yes,Yes,Yes
+143,Water Chestnut,Vegetable,Indian/International,Lunch,100,75,3.0,4.0,0.0,2.4,0.4,2,412,94,1.4,42.0,0,0.0,48,Yes,Yes,Yes
+171,White Radish,Vegetable,Indian/International,Lunch,100,75,3.0,15.0,0.0,1.0,4.8,24,444,58,0.2,74.0,0,0.0,41,Yes,Yes,Yes
+136,Yam,Vegetable,Indian/International,Lunch,100,40,3.0,5.0,0.2,1.7,7.3,64,279,73,1.7,14.0,0,0.0,41,Yes,Yes,Yes
+129,Yellow Capsicum,Vegetable,Indian/International,Lunch,100,75,3.0,6.0,0.4,1.0,6.2,36,146,52,2.0,66.0,0,0.0,34,Yes,Yes,Yes
+114,Zucchini,Vegetable,Indian/International,Lunch,100,70,2.5,6.0,0.6,3.1,2.7,66,361,127,2.3,86.0,0,0.0,19,Yes,Yes,Yes

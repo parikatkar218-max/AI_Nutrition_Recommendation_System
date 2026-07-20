@@ -1,0 +1,7 @@
+﻿BMI_Category_ID,BMI_Min,BMI_Max,BMI_Category,Health_Risk,Recommendation,Target_Calorie_Adjustment,Goal
+1,0,18.4,Underweight,Moderate Risk,Increase calorie intake with nutritious foods,+400 kcal/day,Weight Gain
+2,18.5,24.9,Normal Weight,Low Risk,Maintain a balanced diet and regular exercise,0 kcal/day,Maintain Weight
+3,25,29.9,Overweight,Increased Risk,Reduce calorie intake and increase physical activity,-400 kcal/day,Weight Loss
+4,30,34.9,Obesity Class I,High Risk,Follow a structured weight loss plan,-600 kcal/day,Weight Loss
+5,35,39.9,Obesity Class II,Very High Risk,Consult a healthcare professional and follow a supervised diet,-800 kcal/day,Weight Loss
+6,40,100,Obesity Class III (Severe),Extremely High Risk,Immediate medical supervision and intensive lifestyle changes,-1000 kcal/day,Weight Loss

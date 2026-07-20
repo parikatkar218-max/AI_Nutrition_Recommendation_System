@@ -1,0 +1,21 @@
+﻿Deficiency_ID,Deficiency_Name,Nutrient,Common_Symptoms,Recommended_Daily_Intake,Foods_To_Eat,Foods_To_Avoid,Best_Food_Categories,Severity,Water_Intake_L,Lifestyle_Advice
+1,Iron Deficiency,Iron,Fatigue; Pale Skin; Weakness,17-21 mg,Spinach; Lentils; Dates; Beetroot; Raisins,Tea immediately after meals,Vegetable; Pulse/Legume; Fruit,High,3,Consume Vitamin C rich foods with iron sources
+2,Vitamin D Deficiency,Vitamin D,Bone Pain; Weakness,600 IU,Eggs; Fortified Milk; Mushrooms,Excess Soft Drinks,Dairy; Meat/Fish/Egg,Moderate,3,Spend 20 minutes in sunlight daily
+3,Vitamin B12 Deficiency,Vitamin B12,Tingling; Fatigue; Anemia,2.4 mcg,Eggs; Fish; Milk; Yogurt,Alcohol,Dairy; Meat/Fish/Egg,Moderate,3,Include dairy or animal products regularly
+4,Calcium Deficiency,Calcium,Weak Bones; Muscle Cramps,1000 mg,Milk; Paneer; Yogurt; Sesame Seeds,Carbonated Drinks,Dairy; Nut/Seed,Moderate,3,Regular exercise improves bone health
+5,Protein Deficiency,Protein,Muscle Loss; Weakness,60 g,Eggs; Soybean; Paneer; Lentils,Junk Food,Pulse/Legume; Dairy; Meat/Fish/Egg,High,3.5,Include protein in every meal
+6,Fiber Deficiency,Dietary Fiber,Constipation; Poor Digestion,30 g,Oats; Apple; Broccoli; Beans,Highly Processed Foods,Fruit; Vegetable; Grain/Cereal,Moderate,3.5,Increase fruits and vegetables
+7,Potassium Deficiency,Potassium,Muscle Weakness; Cramps,3500 mg,Banana; Potato; Spinach,Processed Foods,Fruit; Vegetable,Moderate,3,Stay hydrated
+8,Magnesium Deficiency,Magnesium,Fatigue; Muscle Twitching,400 mg,Almonds; Pumpkin Seeds; Spinach,Soft Drinks,Nut/Seed; Vegetable,Moderate,3,Consume nuts regularly
+9,Zinc Deficiency,Zinc,Poor Immunity; Hair Loss,11 mg,Pumpkin Seeds; Chickpeas; Eggs,Highly Processed Foods,Nut/Seed; Pulse/Legume,Moderate,3,Maintain a balanced diet
+10,Folate Deficiency,Folate,Anemia; Fatigue,400 mcg,Spinach; Broccoli; Lentils,Alcohol,Vegetable; Pulse/Legume,Moderate,3,Increase leafy vegetables
+11,Vitamin A Deficiency,Vitamin A,Night Blindness,900 mcg,Carrot; Sweet Potato; Mango,Deep Fried Foods,Vegetable; Fruit,Moderate,3,Eat colorful vegetables
+12,Vitamin C Deficiency,Vitamin C,Bleeding Gums; Poor Healing,90 mg,Orange; Lemon; Guava; Kiwi,Sugary Drinks,Fruit,Moderate,3,Consume fresh fruits daily
+13,Vitamin E Deficiency,Vitamin E,Nerve Problems; Weak Muscles,15 mg,Sunflower Seeds; Almonds; Spinach,Trans Fats,Nut/Seed; Vegetable,Low,3,Include healthy fats
+14,Vitamin K Deficiency,Vitamin K,Easy Bruising; Bleeding,120 mcg,Spinach; Kale; Broccoli,Alcohol,Vegetable,Low,3,Increase green vegetables
+15,Omega-3 Deficiency,Omega-3,Fatigue; Dry Skin,250 mg,Fatty Fish; Walnuts; Flaxseeds,Fried Foods,Meat/Fish/Egg; Nut/Seed,Moderate,3,Include omega-3 sources weekly
+16,Iodine Deficiency,Iodine,Goiter; Fatigue,150 mcg,Iodized Salt; Fish; Dairy,Excess Processed Foods,Dairy; Meat/Fish/Egg,Moderate,3,Use iodized salt
+17,Sodium Deficiency,Sodium,Dizziness; Muscle Cramps,1500 mg,ORS; Coconut Water,Excess Plain Water,Beverage,Low,3,Maintain electrolyte balance
+18,Phosphorus Deficiency,Phosphorus,Bone Weakness,700 mg,Milk; Chicken; Lentils,Alcohol,Dairy; Meat/Fish/Egg,Low,3,Consume protein-rich foods
+19,Copper Deficiency,Copper,Anemia; Weak Immunity,900 mcg,Nuts; Seeds; Whole Grains,Junk Food,Nut/Seed; Grain/Cereal,Low,3,Follow a balanced diet
+20,Selenium Deficiency,Selenium,Weak Immunity; Fatigue,55 mcg,Eggs; Fish; Sunflower Seeds,Highly Processed Foods,Meat/Fish/Egg; Nut/Seed,Low,3,Eat a varied diet

@@ -1,0 +1,16 @@
+﻿Allergy_ID,Allergy_Name,Allergen,Common_Symptoms,Foods_To_Avoid,Safe_Alternatives,Food_Category,Severity
+1,Peanut Allergy,Peanuts,Hives; Swelling; Difficulty Breathing,Peanuts; Peanut Butter; Peanut Oil,Roasted Chickpeas; Pumpkin Seeds; Sunflower Seeds,Nut/Seed,Severe
+2,Tree Nut Allergy,Tree Nuts,Hives; Swelling; Anaphylaxis,Almonds; Cashews; Walnuts; Pistachios; Pecans,Roasted Chickpeas; Oats; Seeds,Nut/Seed,Severe
+3,Milk Allergy,Milk Protein,Rash; Vomiting; Stomach Pain,Milk; Paneer; Cheese; Butter; Yogurt,Soy Milk; Oat Milk; Coconut Milk,Beverage/Dairy,Moderate
+4,Egg Allergy,Egg Protein,Skin Rash; Swelling; Digestive Issues,Eggs; Mayonnaise; Cakes; Pastries,Tofu; Flaxseed Egg; Chia Egg,Meat/Fish/Egg,Moderate
+5,Fish Allergy,Fish Protein,Hives; Wheezing; Swelling,Salmon; Tuna; Sardines; Mackerel,Paneer; Soy Chunks; Lentils,Meat/Fish/Egg,Severe
+6,Shellfish Allergy,Shellfish,Hives; Difficulty Breathing; Anaphylaxis,Prawns; Shrimp; Crab; Lobster,Paneer; Tofu; Lentils,Meat/Fish/Egg,Severe
+7,Soy Allergy,Soy Protein,Rash; Itching; Nausea,Soybeans; Soy Milk; Tofu; Soy Chunks,Paneer; Lentils; Chickpeas,Pulse/Legume,Moderate
+8,Wheat Allergy,Wheat,Skin Rash; Digestive Issues,Wheat Flour; Bread; Pasta; Biscuits,Rice; Corn; Jowar; Bajra,Grain/Cereal,Moderate
+9,Gluten Allergy/Intolerance,Gluten,Bloating; Abdominal Pain; Diarrhea,Wheat; Barley; Rye,Rice; Corn; Millets; Quinoa,Grain/Cereal,Severe
+10,Sesame Allergy,Sesame Seeds,Hives; Swelling; Itching,Sesame Seeds; Tahini; Sesame Oil,Sunflower Seeds; Pumpkin Seeds,Nut/Seed,Moderate
+11,Corn Allergy,Corn,Stomach Pain; Rash,Corn; Corn Flour; Corn Syrup,Rice; Oats; Wheat,Grain/Cereal,Moderate
+12,Mustard Allergy,Mustard Seeds,Hives; Skin Irritation,Mustard Seeds; Mustard Sauce,Cumin; Coriander; Turmeric,Spices,Low
+13,Sulfite Sensitivity,Sulfites,Headache; Wheezing,Dried Fruits; Processed Juices; Packaged Foods,Fresh Fruits; Fresh Juices,Beverage,Moderate
+14,Coconut Allergy,Coconut,Rash; Digestive Problems,Coconut; Coconut Milk; Coconut Oil,Oat Milk; Soy Milk; Almond Milk,Fruit,Low
+15,Cocoa/Chocolate Allergy,Cocoa,Headache; Rash; Itching,Chocolate; Cocoa Powder; Chocolate Drinks,Carob Powder; Vanilla Desserts,Bakery/Snack,Low
